@@ -29,6 +29,31 @@ sync_domain_suffix_rule() {
   rm -f "${tmp_file}"
 }
 
+dedupe_rule_file() {
+  local file="$1"
+  local tmp_file
+
+  tmp_file="$(mktemp)"
+
+  awk '
+    /^[[:space:]]*$/ { next }
+    /^[[:space:]]*#/ { print; next }
+    !seen[$0]++ { print }
+  ' "${file}" > "${tmp_file}"
+
+  mv "${tmp_file}" "${file}"
+}
+
+dedupe_all_rules() {
+  local rule_file
+
+  for rule_file in "${ROOT_DIR}"/rules/*.list; do
+    [ -f "${rule_file}" ] || continue
+    echo "Deduplicating ${rule_file}"
+    dedupe_rule_file "${rule_file}"
+  done
+}
+
 sync_domain_suffix_rule \
   "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/china-list.txt" \
   "rules/10_domestic_direct.list"
@@ -36,5 +61,7 @@ sync_domain_suffix_rule \
 sync_loon_rule \
   "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list" \
   "rules/20_global_proxy.list"
+
+dedupe_all_rules
 
 echo "Upstream rule sync completed."

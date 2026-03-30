@@ -1,0 +1,5 @@
+# Custom proxy rules
+# Maintain this file manually.
+# The daily sync task will deduplicate repeated rule lines.
+# Example:
+# DOMAIN-SUFFIX,example.com
