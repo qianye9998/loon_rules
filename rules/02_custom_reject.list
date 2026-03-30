@@ -1,0 +1,5 @@
+# Custom reject rules
+# Add domains that should always be blocked.
+# Example:
+# DOMAIN-SUFFIX,ads.example.com
+

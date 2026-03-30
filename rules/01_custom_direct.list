@@ -1,0 +1,5 @@
+# Custom direct rules
+# Add domains that should always go DIRECT.
+# Example:
+# DOMAIN-SUFFIX,internal.example.com
+
