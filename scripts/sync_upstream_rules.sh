@@ -70,12 +70,8 @@ sync_combined_rules \
 
 sync_combined_rules \
   "rules/20_global_proxy.list" \
-  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Telegram.list" \
-  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Google.list" \
-  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/ChatGPT.list" \
-  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Claude.list" \
-  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Gemini.list" \
-  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/YouTube.list"
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list" \
+  "https://raw.githubusercontent.com/Moli-X/Tool/X/Loon/Rules/AI.list"
 
 dedupe_all_rules
 

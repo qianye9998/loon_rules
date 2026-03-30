@@ -25,6 +25,7 @@ loon-rules/
 
 This repository includes a GitHub Actions workflow that updates the upstream rules every day.
 For the synced categories, the script first reads multiple upstream rule URLs, writes them into the target file, and then deduplicates every `.list` file under `rules/`.
+The repository keeps `rules/10_domestic_direct.list` and `rules/20_global_proxy.list` as empty placeholders in git by default, and they are generated on the first script or workflow run.
 
 Current upstream mapping:
 
@@ -34,12 +35,8 @@ Current upstream mapping:
   - `https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/WeChat.list`
   - `https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/cn.list`
 - `rules/20_global_proxy.list` <= combined from:
-  - `https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Telegram.list`
-  - `https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Google.list`
-  - `https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/ChatGPT.list`
-  - `https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Claude.list`
-  - `https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Gemini.list`
-  - `https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/YouTube.list`
+  - `https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list`
+  - `https://raw.githubusercontent.com/Moli-X/Tool/X/Loon/Rules/AI.list`
 - `rules/30_custom_proxy.list` <= maintained manually, deduplicated daily
 
 The workflow file is:
