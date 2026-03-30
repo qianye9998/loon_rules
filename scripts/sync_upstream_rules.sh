@@ -52,9 +52,14 @@ dedupe_rule_file() {
 }
 
 dedupe_all_rules() {
+  local generated_rules=(
+    "${ROOT_DIR}/rules/10_domestic_direct.list"
+    "${ROOT_DIR}/rules/20_global_proxy.list"
+    "${ROOT_DIR}/rules/25_ai_proxy.list"
+  )
   local rule_file
 
-  for rule_file in "${ROOT_DIR}"/rules/*.list; do
+  for rule_file in "${generated_rules[@]}"; do
     [ -f "${rule_file}" ] || continue
     echo "Deduplicating ${rule_file}"
     dedupe_rule_file "${rule_file}"
