@@ -32,9 +32,9 @@ This repository includes a GitHub Actions workflow that can update upstream rule
 
 Current upstream mapping:
 
-- `rules/20_global_proxy.list` <= `GFWlist.list`
-- `rules/21_adblock_reject.list` <= `AdBlock.list`
-- `rules/22_proxy_list.list` <= `Proxy-List.list`
+- `rules/20_global_proxy.list` <= optional `GFWlist.list` sync
+- `rules/21_adblock_reject.list` <= `rejectAd.list`
+- `rules/22_proxy_list.list` <= optional `Proxy-List.list` sync
 - `rules/40_ai_proxy.list` <= `AI.list`
 
 The workflow file is:
@@ -47,8 +47,13 @@ You can trigger it manually from the GitHub Actions page, or let it run on sched
 
 ## Proxy-List Notice
 
-`Proxy-List.list` is synced into the repository for review, but it is not enabled in `Loon.conf` by default.
+`Proxy-List.list` is synced into the repository for review when the upstream file exists, but it is not enabled in `Loon.conf` by default.
 Its format may not belong in the `[Rule]` section depending on the upstream content.
+
+## Upstream Compatibility
+
+The current upstream repository exposes `AI.list` and `rejectAd.list`, but the URLs `GFWlist.list`, `AdBlock.list`, and `Proxy-List.list` may be absent.
+For that reason the sync script treats those missing files as optional and keeps your existing local copies instead of failing the workflow.
 
 ## Raw URL Example
 
