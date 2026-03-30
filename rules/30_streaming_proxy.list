@@ -1,8 +1,0 @@
-# Streaming proxy rules
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,nflxvideo.net
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,ytimg.com
-

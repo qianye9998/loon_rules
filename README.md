@@ -8,16 +8,15 @@ Personal Loon rules repository for GitHub hosting.
 loon-rules/
 |-- README.md
 |-- Loon.conf
+|-- .github/workflows/sync-upstream-rules.yml
+|-- scripts/sync_upstream_rules.sh
 `-- rules/
     |-- 00_custom_proxy.list
     |-- 01_custom_direct.list
     |-- 02_custom_reject.list
     |-- 10_domestic_direct.list
     |-- 20_global_proxy.list
-    |-- 21_adblock_reject.list
-    |-- 22_proxy_list.list
-    |-- 30_streaming_proxy.list
-    `-- 40_ai_proxy.list
+    `-- auto-synced from upstream
 ```
 
 ## Usage
@@ -32,10 +31,8 @@ This repository includes a GitHub Actions workflow that can update upstream rule
 
 Current upstream mapping:
 
-- `rules/20_global_proxy.list` <= optional `GFWlist.list` sync
-- `rules/21_adblock_reject.list` <= `rejectAd.list`
-- `rules/22_proxy_list.list` <= optional `Proxy-List.list` sync
-- `rules/40_ai_proxy.list` <= `AI.list`
+- `rules/20_global_proxy.list` <= `https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list`
+- `rules/10_domestic_direct.list` <= converted from `https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/china-list.txt`
 
 The workflow file is:
 
@@ -45,18 +42,18 @@ The workflow file is:
 
 You can trigger it manually from the GitHub Actions page, or let it run on schedule after pushing the repository to GitHub.
 
-## Proxy-List Notice
+## Upstream Notes
 
-`Proxy-List.list` is synced into the repository for review when the upstream file exists, but it is not enabled in `Loon.conf` by default.
-Its format may not belong in the `[Rule]` section depending on the upstream content.
+`Global.list` is already in Loon rule format and is saved directly.
 
-## Upstream Compatibility
+`china-list.txt` is a plain domain list rather than Loon syntax, so the sync script converts each domain into:
 
-The current upstream repository exposes `AI.list` and `rejectAd.list`, but the URLs `GFWlist.list`, `AdBlock.list`, and `Proxy-List.list` may be absent.
-For that reason the sync script treats those missing files as optional and keeps your existing local copies instead of failing the workflow.
+```text
+DOMAIN-SUFFIX,example.com
+```
 
 ## Raw URL Example
 
 ```text
-https://raw.githubusercontent.com/qianye9998/loon_rules/main/rules/40_ai_proxy.list
+https://raw.githubusercontent.com/qianye9998/loon_rules/main/rules/20_global_proxy.list
 ```
