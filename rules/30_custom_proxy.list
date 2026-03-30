@@ -3,3 +3,4 @@
 # The daily sync task will deduplicate repeated rule lines.
 # Example:
 # DOMAIN-SUFFIX,example.com
+DOMAIN-KEYWORD,emby
