@@ -4,29 +4,36 @@ set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
-sync_loon_rule() {
-  local url="$1"
-  local target="$2"
-
-  echo "Syncing loon-formatted rule ${target} from ${url}"
-  curl -fsSL --retry 3 --connect-timeout 20 "$url" -o "${ROOT_DIR}/${target}"
+normalize_rule_stream() {
+  sed 's/\r$//' \
+    | sed '/^[[:space:]]*$/d; /^[[:space:]]*#/d' \
+    | sed 's/^[[:space:]]*//; s/[[:space:]]*$//' \
+    | sed 's/,[[:space:]]*/,/g'
 }
 
-sync_domain_suffix_rule() {
-  local url="$1"
-  local target="$2"
+sync_combined_rules() {
+  local target="$1"
+  shift
+  local url
   local tmp_file
 
   tmp_file="$(mktemp)"
 
-  echo "Syncing domain list ${target} from ${url}"
-  curl -fsSL --retry 3 --connect-timeout 20 "$url" -o "${tmp_file}"
   {
-    echo "# Source: ${url}"
     echo "# Generated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-    sed '/^\s*$/d; /^\s*#/d' "${tmp_file}" | sed 's/^/DOMAIN-SUFFIX,/'
-  } > "${ROOT_DIR}/${target}"
-  rm -f "${tmp_file}"
+    echo "# Sources:"
+    for url in "$@"; do
+      echo "# ${url}"
+    done
+  } > "${tmp_file}"
+
+  for url in "$@"; do
+    echo "Syncing ${target} from ${url}"
+    curl -fsSL --retry 3 --connect-timeout 20 "$url" \
+      | normalize_rule_stream >> "${tmp_file}"
+  done
+
+  mv "${tmp_file}" "${ROOT_DIR}/${target}"
 }
 
 dedupe_rule_file() {
@@ -54,13 +61,21 @@ dedupe_all_rules() {
   done
 }
 
-sync_domain_suffix_rule \
-  "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/china-list.txt" \
-  "rules/10_domestic_direct.list"
+sync_combined_rules \
+  "rules/10_domestic_direct.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/ChinaDomian.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/ChinaCompanyIp.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/WeChat.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/cn.list"
 
-sync_loon_rule \
-  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list" \
-  "rules/20_global_proxy.list"
+sync_combined_rules \
+  "rules/20_global_proxy.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Telegram.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Google.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/ChatGPT.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Claude.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/Gemini.list" \
+  "https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/proxy/YouTube.list"
 
 dedupe_all_rules
 
