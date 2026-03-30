@@ -1,0 +1,3 @@
+# Placeholder only.
+# This file is intentionally kept empty in git.
+# Run `bash scripts/sync_upstream_rules.sh` or GitHub Actions once to generate it.

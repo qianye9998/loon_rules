@@ -70,7 +70,10 @@ sync_combined_rules \
 
 sync_combined_rules \
   "rules/20_global_proxy.list" \
-  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list" \
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global.list"
+
+sync_combined_rules \
+  "rules/25_ai_proxy.list" \
   "https://raw.githubusercontent.com/Moli-X/Tool/X/Loon/Rules/AI.list"
 
 dedupe_all_rules
