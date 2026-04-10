@@ -1,4 +1,4 @@
-# Generated: 2026-04-09 05:20:37 UTC
+# Generated: 2026-04-10 05:32:06 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -13722,6 +13722,7 @@ DOMAIN-SUFFIX,anyskygame.com
 DOMAIN-SUFFIX,anysql.net
 DOMAIN-SUFFIX,anystandards.com
 DOMAIN-SUFFIX,anytesting.com
+DOMAIN-SUFFIX,anytocopy.com
 DOMAIN-SUFFIX,anyun100.com
 DOMAIN-SUFFIX,anyunjianzhan.com
 DOMAIN-SUFFIX,anyv.net
@@ -29627,6 +29628,7 @@ DOMAIN-SUFFIX,daoapp.me
 DOMAIN-SUFFIX,daoboime.com
 DOMAIN-SUFFIX,daochen.com
 DOMAIN-SUFFIX,daocloud.io
+DOMAIN-SUFFIX,daocloud.vip
 DOMAIN-SUFFIX,daocloudapp.com
 DOMAIN-SUFFIX,daodao.com
 DOMAIN-SUFFIX,daodaojizhang.com
@@ -39137,6 +39139,7 @@ DOMAIN-SUFFIX,gamemili.com
 DOMAIN-SUFFIX,gamenow.club
 DOMAIN-SUFFIX,gameol.com
 DOMAIN-SUFFIX,gamepingce.com
+DOMAIN-SUFFIX,gamepp.com
 DOMAIN-SUFFIX,gamer520.net
 DOMAIN-SUFFIX,gamerboom.com
 DOMAIN-SUFFIX,gameres.com
@@ -48066,6 +48069,7 @@ DOMAIN-SUFFIX,hezibook.com
 DOMAIN-SUFFIX,hezijia.com
 DOMAIN-SUFFIX,hezimi.com
 DOMAIN-SUFFIX,hezongyy.com
+DOMAIN-SUFFIX,hezuvip.com
 DOMAIN-SUFFIX,hf-alu.com
 DOMAIN-SUFFIX,hf-aw.com
 DOMAIN-SUFFIX,hf-iflysse.com
@@ -75758,6 +75762,7 @@ DOMAIN-SUFFIX,os7blue.com
 DOMAIN-SUFFIX,osaaa.com
 DOMAIN-SUFFIX,osakacopyshop.com
 DOMAIN-SUFFIX,osase.net
+DOMAIN-SUFFIX,osbdf.com
 DOMAIN-SUFFIX,osbean.com
 DOMAIN-SUFFIX,osbkj.com
 DOMAIN-SUFFIX,osbzr.com
@@ -84054,6 +84059,7 @@ DOMAIN-SUFFIX,scqstv.com
 DOMAIN-SUFFIX,scqy100.com
 DOMAIN-SUFFIX,scraij.com
 DOMAIN-SUFFIX,scrape.center
+DOMAIN-SUFFIX,scratch5.com
 DOMAIN-SUFFIX,scratchmirror.com
 DOMAIN-SUFFIX,scratchmirror.net
 DOMAIN-SUFFIX,scrc168.com
@@ -89307,6 +89313,7 @@ DOMAIN-SUFFIX,soukuyou.com
 DOMAIN-SUFFIX,soulapp.me
 DOMAIN-SUFFIX,soulgame.mobi
 DOMAIN-SUFFIX,soulsky.net
+DOMAIN-SUFFIX,soulteary.com
 DOMAIN-SUFFIX,soulu365.com
 DOMAIN-SUFFIX,souluo.net
 DOMAIN-SUFFIX,souluojie.com
@@ -94500,6 +94507,7 @@ DOMAIN-SUFFIX,tileywy.com
 DOMAIN-SUFFIX,tillcn.com
 DOMAIN-SUFFIX,tillglance.com
 DOMAIN-SUFFIX,timanetworks.com
+DOMAIN-SUFFIX,timbrd.com
 DOMAIN-SUFFIX,time-weekly.com
 DOMAIN-SUFFIX,time-year.com
 DOMAIN-SUFFIX,timecoo.com
@@ -101607,6 +101615,7 @@ DOMAIN-SUFFIX,wildcardx.net
 DOMAIN-SUFFIX,wilddog.com
 DOMAIN-SUFFIX,wilddream.net
 DOMAIN-SUFFIX,wildfire.work
+DOMAIN-SUFFIX,wildfirechat.net
 DOMAIN-SUFFIX,wildgun.net
 DOMAIN-SUFFIX,wildhorde.com
 DOMAIN-SUFFIX,wildto.com
@@ -126962,10 +126971,10 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,qiyi
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.1.8.0/21,no-resolve
 IP-CIDR,1.116.0.0/14,no-resolve
@@ -127572,13 +127581,19 @@ IP-CIDR,104.207.33.64/26,no-resolve
 IP-CIDR,104.207.36.0/22,no-resolve
 IP-CIDR,104.207.40.0/21,no-resolve
 IP-CIDR,104.207.48.0/20,no-resolve
+IP-CIDR,104.219.211.0/24,no-resolve
 IP-CIDR,104.227.65.96/28,no-resolve
+IP-CIDR,104.233.144.0/21,no-resolve
+IP-CIDR,104.233.159.0/24,no-resolve
 IP-CIDR,104.237.80.0/21,no-resolve
 IP-CIDR,104.27.168.0/24,no-resolve
 IP-CIDR,104.30.133.172/32,no-resolve
 IP-CIDR,106.11.0.0/16,no-resolve
 IP-CIDR,106.2.0.0/15,no-resolve
 IP-CIDR,106.74.0.0/15,no-resolve
+IP-CIDR,107.148.150.0/23,no-resolve
+IP-CIDR,107.148.84.0/23,no-resolve
+IP-CIDR,107.149.198.0/23,no-resolve
 IP-CIDR,107.150.125.199/32,no-resolve
 IP-CIDR,107.151.212.0/24,no-resolve
 IP-CIDR,107.153.91.0/24,no-resolve
@@ -128268,6 +128283,7 @@ IP-CIDR,194.110.135.0/24,no-resolve
 IP-CIDR,194.116.150.47/32,no-resolve
 IP-CIDR,194.127.229.0/24,no-resolve
 IP-CIDR,194.156.99.0/24,no-resolve
+IP-CIDR,194.231.140.0/24,no-resolve
 IP-CIDR,194.45.55.8/30,no-resolve
 IP-CIDR,194.50.111.48/32,no-resolve
 IP-CIDR,194.50.99.48/32,no-resolve
@@ -128514,7 +128530,6 @@ IP-CIDR,218.213.85.0/24,no-resolve
 IP-CIDR,218.213.92.0/24,no-resolve
 IP-CIDR,218.240.0.0/13,no-resolve
 IP-CIDR,218.252.0.0/17,no-resolve
-IP-CIDR,218.252.128.0/19,no-resolve
 IP-CIDR,218.253.0.0/18,no-resolve
 IP-CIDR,218.96.0.0/14,no-resolve
 IP-CIDR,219.100.148.0/22,no-resolve
@@ -129508,6 +129523,7 @@ IP-CIDR,38.103.64.26/32,no-resolve
 IP-CIDR,38.105.24.0/24,no-resolve
 IP-CIDR,38.105.26.0/23,no-resolve
 IP-CIDR,38.105.28.0/22,no-resolve
+IP-CIDR,38.12.3.0/24,no-resolve
 IP-CIDR,38.134.56.0/24,no-resolve
 IP-CIDR,38.134.58.0/23,no-resolve
 IP-CIDR,38.181.0.0/19,no-resolve
@@ -133914,6 +133930,7 @@ USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -133923,6 +133940,7 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
+USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
@@ -133947,20 +133965,13 @@ USER-AGENT,DomesticMedia*
 USER-AGENT,MGTV*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
 USER-AGENT,Youku*
-USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-USER-AGENT,NeteaseMusic*
+USER-AGENT,baiduyinyue
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,TencentMidasConnect*
@@ -133968,7 +133979,12 @@ USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.bilibili.app.blue
 PROCESS-NAME,com.bilibili.app.in
