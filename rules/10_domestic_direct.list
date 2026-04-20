@@ -1,4 +1,4 @@
-# Generated: 2026-04-19 05:35:54 UTC
+# Generated: 2026-04-20 05:47:49 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -126418,6 +126418,7 @@ DOMAIN-SUFFIX,100.xn--5tzm5g
 DOMAIN-SUFFIX,100.xn--czrs0t
 DOMAIN-SUFFIX,100.xn--vhquv
 DOMAIN-SUFFIX,10000.xn--vhquv
+DOMAIN-SUFFIX,10086.world
 DOMAIN-SUFFIX,10086.xn--czrs0t
 DOMAIN-SUFFIX,11.xn--czrs0t
 DOMAIN-SUFFIX,11.xn--vhquv
@@ -126449,6 +126450,7 @@ DOMAIN-SUFFIX,2929.xn--czrs0t
 DOMAIN-SUFFIX,3.xn--czrs0t
 DOMAIN-SUFFIX,3.xn--unup4y
 DOMAIN-SUFFIX,3.xn--vhquv
+DOMAIN-SUFFIX,30vps.com
 DOMAIN-SUFFIX,31.xn--czrs0t
 DOMAIN-SUFFIX,31.xn--vhquv
 DOMAIN-SUFFIX,33.xn--vhquv
@@ -126489,8 +126491,10 @@ DOMAIN-SUFFIX,account-api.dji.com
 DOMAIN-SUFFIX,account.djicdn.com
 DOMAIN-SUFFIX,account.lenovo.com
 DOMAIN-SUFFIX,account.uds-sit.lenovo.com
+DOMAIN-SUFFIX,acflow.com
 DOMAIN-SUFFIX,active.dji.com
 DOMAIN-SUFFIX,adam.akamai.com
+DOMAIN-SUFFIX,adunimax.com
 DOMAIN-SUFFIX,aeroscope.djiservice.org
 DOMAIN-SUFFIX,ag-rtk-alg.dji.com
 DOMAIN-SUFFIX,ag-rtk.dji.com
@@ -126507,6 +126511,7 @@ DOMAIN-SUFFIX,api-ar.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,api-ar.euwe1.uds.lenovo.com
 DOMAIN-SUFFIX,api-ar.naea1.uds.lenovo.com
 DOMAIN-SUFFIX,api-cn-t.lenovo.com
+DOMAIN-SUFFIX,api-expo.com
 DOMAIN-SUFFIX,api.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,api.djiservice.org
 DOMAIN-SUFFIX,api.euwe1.uds.lenovo.com
@@ -126553,6 +126558,7 @@ DOMAIN-SUFFIX,c.citic
 DOMAIN-SUFFIX,callhome.uds-qa.lenovo.com
 DOMAIN-SUFFIX,callhome.uds-sit.lenovo.com
 DOMAIN-SUFFIX,cas.wx.lenovo.com
+DOMAIN-SUFFIX,ccccccccccc.cc
 DOMAIN-SUFFIX,cdn-hz.skypixel.com
 DOMAIN-SUFFIX,cdn-light-cms-cn.skypixel.com
 DOMAIN-SUFFIX,cdn-usa.skypixel.com
@@ -126593,11 +126599,15 @@ DOMAIN-SUFFIX,csp.djicdn.com
 DOMAIN-SUFFIX,csp.lenovo.com
 DOMAIN-SUFFIX,cube.lenovo.com
 DOMAIN-SUFFIX,customer.lenovo.com
+DOMAIN-SUFFIX,cxstar.com
 DOMAIN-SUFFIX,d.codata.lenovo.com
+DOMAIN-SUFFIX,dahachuxing.com
 DOMAIN-SUFFIX,dashboard.deploy.akamai.com
 DOMAIN-SUFFIX,daystar.lenovo.com
 DOMAIN-SUFFIX,dcmap.deploy.akamai.com
 DOMAIN-SUFFIX,dcmap2.deploy.akamai.com
+DOMAIN-SUFFIX,dcyzq.com
+DOMAIN-SUFFIX,ddnscn.com
 DOMAIN-SUFFIX,deals-assets-cdn.razerzone.com
 DOMAIN-SUFFIX,deals-images-cdn.razerzone.com
 DOMAIN-SUFFIX,decon.deploy.akamai.com
@@ -126627,12 +126637,14 @@ DOMAIN-SUFFIX,dtf.lenovo.com
 DOMAIN-SUFFIX,duanzhihu.com
 DOMAIN-SUFFIX,dundun.wang
 DOMAIN-SUFFIX,duosuna.lenovo.com
+DOMAIN-SUFFIX,easesdk.com
 DOMAIN-SUFFIX,en.people.cn.akadns99.net
 DOMAIN-SUFFIX,enterprise-insights.dji.com
 DOMAIN-SUFFIX,enterprise.dji.com
 DOMAIN-SUFFIX,entertainment.dji.com
 DOMAIN-SUFFIX,epkipro.globalsign.com
 DOMAIN-SUFFIX,fangdalaw.box.lenovo.com
+DOMAIN-SUFFIX,fcto.rest
 DOMAIN-SUFFIX,fly-safe.dji.com
 DOMAIN-SUFFIX,flysafe-api.dji.com
 DOMAIN-SUFFIX,flysafe.dji.com
@@ -126647,6 +126659,8 @@ DOMAIN-SUFFIX,geo.uds-sit.lenovo.com
 DOMAIN-SUFFIX,global.prd.cdn.globalsign.com
 DOMAIN-SUFFIX,group.citic
 DOMAIN-SUFFIX,gs2-geo.psn.akadns99.net
+DOMAIN-SUFFIX,gshis.net
+DOMAIN-SUFFIX,guodiana.com
 DOMAIN-SUFFIX,gzyat.relmeetingapp.lenovo.com
 DOMAIN-SUFFIX,hardware.deploy.akamai.com
 DOMAIN-SUFFIX,hci.lenovo.com
@@ -126670,11 +126684,18 @@ DOMAIN-SUFFIX,ins.citic
 DOMAIN-SUFFIX,ipgpassport.lenovo.com
 DOMAIN-SUFFIX,issues.deploy.akamai.com
 DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,ivanli.cc
 DOMAIN-SUFFIX,j.people.com.cn.akadns99.net
+DOMAIN-SUFFIX,jinghandianzi.com
 DOMAIN-SUFFIX,jingqu.wang
 DOMAIN-SUFFIX,jp.globalsign.com
+DOMAIN-SUFFIX,jz60.com
 DOMAIN-SUFFIX,k.sohu
+DOMAIN-SUFFIX,kedingyun.com
+DOMAIN-SUFFIX,khlgamen.com
+DOMAIN-SUFFIX,kimi.ai
 DOMAIN-SUFFIX,kt.lenovo.com
+DOMAIN-SUFFIX,kuaijiepaotui.com
 DOMAIN-SUFFIX,laogu.wang
 DOMAIN-SUFFIX,lcp.gtm.lenovo.com
 DOMAIN-SUFFIX,lcp.lenovo.com
@@ -126707,8 +126728,10 @@ DOMAIN-SUFFIX,manifest-assets.razerzone.com
 DOMAIN-SUFFIX,manifest-sophie-pro.razerapi.com
 DOMAIN-SUFFIX,manifest.razerapi.com
 DOMAIN-SUFFIX,manifest3.razerapi.com
+DOMAIN-SUFFIX,meip1.me
 DOMAIN-SUFFIX,mengtuoshi.wang
 DOMAIN-SUFFIX,mimo.skypixel.com
+DOMAIN-SUFFIX,miniapp.fun
 DOMAIN-SUFFIX,mitest.lenovo.com
 DOMAIN-SUFFIX,mkbaobao.wang
 DOMAIN-SUFFIX,mlearningcenter.lenovo.com
@@ -126717,6 +126740,7 @@ DOMAIN-SUFFIX,mobileapp-assets-dev.razerzone.com
 DOMAIN-SUFFIX,mobileapp-assets-staging.razerzone.com
 DOMAIN-SUFFIX,mobileapp-assets.razerzone.com
 DOMAIN-SUFFIX,momentum.akamai.com
+DOMAIN-SUFFIX,moto17.com
 DOMAIN-SUFFIX,mqtt-mtls.cnno1.uds-sit.lenovo.com
 DOMAIN-SUFFIX,mqtt.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,my.akamai.com
@@ -126777,6 +126801,7 @@ DOMAIN-SUFFIX,psrefstuff.lenovo.com
 DOMAIN-SUFFIX,qas-cnlogistics.lenovo.com
 DOMAIN-SUFFIX,qcut.dji.com
 DOMAIN-SUFFIX,qi.lenovo.com
+DOMAIN-SUFFIX,qinglanbaseanycast.com
 DOMAIN-SUFFIX,qliksense.lenovo.com
 DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,razer-customer-swassets.razerzone.com
@@ -126798,8 +126823,10 @@ DOMAIN-SUFFIX,rzcsassets.razerzone.com
 DOMAIN-SUFFIX,sales.lenovo.com
 DOMAIN-SUFFIX,scc.lenovo.com
 DOMAIN-SUFFIX,sdcsso.lenovo.com
+DOMAIN-SUFFIX,sdjinghan.com
 DOMAIN-SUFFIX,seal.alphassl.com
 DOMAIN-SUFFIX,seal.globalsign.com
+DOMAIN-SUFFIX,sealion360.com
 DOMAIN-SUFFIX,sec.lenovo.com
 DOMAIN-SUFFIX,secure.alphassl.com
 DOMAIN-SUFFIX,secure.globalsign.com
@@ -126853,8 +126880,10 @@ DOMAIN-SUFFIX,synapse-x-assets.razerzone.com
 DOMAIN-SUFFIX,synapse3ui-common-dev.razerzone.com
 DOMAIN-SUFFIX,synapse3ui-common-staging.razerzone.com
 DOMAIN-SUFFIX,synapse3ui-common.razerzone.com
+DOMAIN-SUFFIX,szlswl8.com
 DOMAIN-SUFFIX,t.sohu
 DOMAIN-SUFFIX,taobao.wang
+DOMAIN-SUFFIX,taoxuemiao.com
 DOMAIN-SUFFIX,tech.citic
 DOMAIN-SUFFIX,terra-1-g.djicdn.com
 DOMAIN-SUFFIX,terra-2-g.djicdn.com
@@ -126912,6 +126941,7 @@ DOMAIN-SUFFIX,xapi.lenovo.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xiaoma.wang
 DOMAIN-SUFFIX,xiaoyi.lenovo.com
+DOMAIN-SUFFIX,xinac.net
 DOMAIN-SUFFIX,xn--1lq90iba455sxghy10a.xn--3ds443g
 DOMAIN-SUFFIX,xn--1lq90iizjqm7afdaz44c.xn--3ds443g
 DOMAIN-SUFFIX,xn--2ssx2cb4cywb60vkockt5d081a5lm.xn--3ds443g
@@ -126969,8 +126999,12 @@ DOMAIN-SUFFIX,xn--xhq95newgtxk9sk8k6a9r4ba.xn--3ds443g
 DOMAIN-SUFFIX,xn--xxv969f.xn--ses554g
 DOMAIN-SUFFIX,xn--z3vq3r3u4a.xn--czr694b
 DOMAIN-SUFFIX,xn--zwtr2f7xebqvx24ax9a.xn--3ds443g
+DOMAIN-SUFFIX,xtlexueu.com
 DOMAIN-SUFFIX,yanghengjun.com
+DOMAIN-SUFFIX,yipinbowu.com
 DOMAIN-SUFFIX,yun.lenovo.com
+DOMAIN-SUFFIX,zhaomu.com
+DOMAIN-SUFFIX,zitiziyuan.com
 DOMAIN-SUFFIX,zlzpdemo.cube.lenovo.com
 DOMAIN-SUFFIX,ms
 DOMAIN-KEYWORD,.tmall.com
@@ -126979,10 +127013,10 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
-DOMAIN-KEYWORD,qiyi
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.1.8.0/21,no-resolve
 IP-CIDR,1.116.0.0/14,no-resolve
@@ -133742,6 +133776,7 @@ IP-CIDR6,2a0f:1cc5:1d11::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:1d14::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:1f::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:2510::/44,no-resolve
+IP-CIDR6,2a0f:1cc5:2520::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:2600::/40,no-resolve
 IP-CIDR6,2a0f:1cc5:2d01::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:2d03::/48,no-resolve
@@ -133845,6 +133880,7 @@ IP-CIDR6,2a14:67c1:b588::/47,no-resolve
 IP-CIDR6,2a14:67c1:b590::/48,no-resolve
 IP-CIDR6,2a14:67c1:b5e0::/44,no-resolve
 IP-CIDR6,2a14:67c3:30::/44,no-resolve
+IP-CIDR6,2a14:67c3:6668::/45,no-resolve
 IP-CIDR6,2a14:67c3:888::/48,no-resolve
 IP-CIDR6,2a14:7580:740::/44,no-resolve
 IP-CIDR6,2a14:7580:fffa::/48,no-resolve
@@ -133944,35 +133980,35 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
+USER-AGENT,MiguVideo*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,baiduyinyue
+USER-AGENT,QYPlayer*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,Youku*
 USER-AGENT,bilibili*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
 USER-AGENT,MGTV*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,Youku*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QYPlayer*
+USER-AGENT,baiduyinyue
 USER-AGENT,iQIYI*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.bilibili.app.blue
 PROCESS-NAME,com.bilibili.app.in
