@@ -2,7 +2,6 @@
 # Maintain this file manually.
 # The daily sync task will deduplicate repeated rule lines.
 # Example:
-DOMAIN-SUFFIX,example.com
 DOMAIN-KEYWORD,pzds
 DOMAIN-KEYWORD,nfgood
 DOMAIN-SUFFIX,pgyer.com,DIRECT
