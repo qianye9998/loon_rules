@@ -1,4 +1,4 @@
-# Generated: 2026-05-19 06:54:41 UTC
+# Generated: 2026-05-20 06:54:58 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -113,12 +113,10 @@ DOMAIN-SUFFIX,cn-smp-paymentservices.apple.com
 DOMAIN-SUFFIX,cn.download.nvidia.com
 DOMAIN-SUFFIX,cn.widevine.com
 DOMAIN-SUFFIX,cn.windowssearch.com
-DOMAIN-SUFFIX,cnappinstall.googleadapis.com
 DOMAIN-SUFFIX,communities.apple.com
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN-SUFFIX,configuration.apple.com.akadns.net
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
-DOMAIN-SUFFIX,content.googleadapis.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,crl-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,crl.apple.com
@@ -177,7 +175,6 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,download.developer.apple.com
 DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,download.mlcc.google.com
-DOMAIN-SUFFIX,download.qatp1.net
 DOMAIN-SUFFIX,download.tensorflow.google.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,downloaddispatch.itunes.apple.com
@@ -185,7 +182,6 @@ DOMAIN-SUFFIX,ea2cn-dev-outlet.dell.com
 DOMAIN-SUFFIX,ea2cn-prod-outlet.dell.com
 DOMAIN-SUFFIX,ea2cn-staging-outlet.dell.com
 DOMAIN-SUFFIX,edge.geo.kaspersky.com
-DOMAIN-SUFFIX,emmapplecodevice.googleapis.com
 DOMAIN-SUFFIX,emoi-cncdn.bing.com
 DOMAIN-SUFFIX,end-api.shallow.ink
 DOMAIN-SUFFIX,end.shallow.ink
@@ -209,7 +205,6 @@ DOMAIN-SUFFIX,g3.gstatic.com
 DOMAIN-SUFFIX,gbxgateway-dev.dell.com
 DOMAIN-SUFFIX,gbxgateway.dell.com
 DOMAIN-SUFFIX,geetest.datasink.sensorsdata.cn
-DOMAIN-SUFFIX,go.corp.google.com
 DOMAIN-SUFFIX,gog-cdn-fastly.gog.com
 DOMAIN-SUFFIX,gog-cdn.akamaized.net
 DOMAIN-SUFFIX,gog.qtlglb.com
@@ -332,11 +327,7 @@ DOMAIN-SUFFIX,ksn-url-geo.kaspersky-labs.com
 DOMAIN-SUFFIX,ksn-url.geoksn.kaspersky.com
 DOMAIN-SUFFIX,ksn-verdict-geo.kaspersky-labs.com
 DOMAIN-SUFFIX,ksn-verdict.geoksn.kaspersky.com
-DOMAIN-SUFFIX,l2-uberproxy.corp.google.com
 DOMAIN-SUFFIX,learn.microsoft.com
-DOMAIN-SUFFIX,logger-dev.corp.google.com
-DOMAIN-SUFFIX,logger.corp.google.com
-DOMAIN-SUFFIX,login.corp.google.com
 DOMAIN-SUFFIX,lv.queniujq.cn
 DOMAIN-SUFFIX,maps.apple.com
 DOMAIN-SUFFIX,mdr.ksn.kaspersky-labs.com
@@ -346,7 +337,6 @@ DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,misc-assets.itunes.apple.com
 DOMAIN-SUFFIX,ml.cdn-apple.com
-DOMAIN-SUFFIX,monitoring.qpdp1.net
 DOMAIN-SUFFIX,moocs.unipus.cn
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,musicstatus.music.apple.com
@@ -430,16 +420,9 @@ DOMAIN-SUFFIX,prod-databe.floonet.goog
 DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
 DOMAIN-SUFFIX,prod.databe.floonet.goog
 DOMAIN-SUFFIX,productcard.gog-statics.com
-DOMAIN-SUFFIX,proxyconfig.corp.google.com
 DOMAIN-SUFFIX,publicassets.cdn-apple.com
-DOMAIN-SUFFIX,qagpublic.qatp1.net
-DOMAIN-SUFFIX,qgadmin.qcpp1.net
 DOMAIN-SUFFIX,qiao-cn.com
 DOMAIN-SUFFIX,qpx.googleflights.net
-DOMAIN-SUFFIX,qualysapi.qatp1.net
-DOMAIN-SUFFIX,qualysguard.qpdp1.net
-DOMAIN-SUFFIX,r.cert.corp.google.com
-DOMAIN-SUFFIX,rapture-prod.corp.google.com
 DOMAIN-SUFFIX,recaptcha-cn.net
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,redirector.bdn.dev
@@ -485,7 +468,6 @@ DOMAIN-SUFFIX,s4.mzstatic.com
 DOMAIN-SUFFIX,s5.mzstatic.com
 DOMAIN-SUFFIX,safebrowsing-cache.google.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
-DOMAIN-SUFFIX,scanservice1.qcpp1.net
 DOMAIN-SUFFIX,scene7-cdn.dell.com
 DOMAIN-SUFFIX,sdx.microsoft.com
 DOMAIN-SUFFIX,se-edge.itunes.apple.com
@@ -511,7 +493,6 @@ DOMAIN-SUFFIX,speedysub.music.apple.com
 DOMAIN-SUFFIX,ss.bjmu.edu.cn
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
 DOMAIN-SUFFIX,ssl.gstatic.com
-DOMAIN-SUFFIX,sslredirect.corp.google.com
 DOMAIN-SUFFIX,staging-controlbe.floonet.goog
 DOMAIN-SUFFIX,staging-databe.floonet.goog
 DOMAIN-SUFFIX,staging.databe.floonet.goog
@@ -526,15 +507,9 @@ DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,store.storeimages.apple.com.akadns.net
 DOMAIN-SUFFIX,store.storeimages.cdn-apple.com
 DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
-DOMAIN-SUFFIX,streaming-uberproxy-rotation.corp.google.com
-DOMAIN-SUFFIX,streaming-uberproxy.corp.google.com
 DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,study.163.com
 DOMAIN-SUFFIX,su.itunes.apple.com
-DOMAIN-SUFFIX,sup-ssh-relay.corp.google.com
-DOMAIN-SUFFIX,sup-ssh-relay2.corp.google.com
-DOMAIN-SUFFIX,sup.corp.google.com
-DOMAIN-SUFFIX,sup.l.google.com
 DOMAIN-SUFFIX,support-china.apple-support.akadns.net
 DOMAIN-SUFFIX,support.apple.com
 DOMAIN-SUFFIX,supportassist.dell.com
@@ -553,18 +528,13 @@ DOMAIN-SUFFIX,sylvan.apple.com
 DOMAIN-SUFFIX,sync.itunes.apple.com
 DOMAIN-SUFFIX,tac.googleapis.com
 DOMAIN-SUFFIX,tesla-cdn.thron.cn
-DOMAIN-SUFFIX,test.gbugs-qa.chromium.org
 DOMAIN-SUFFIX,tf-feedback.itunes.apple.com
 DOMAIN-SUFFIX,time.amazonaws.cn
 DOMAIN-SUFFIX,time.izatcloud.net
 DOMAIN-SUFFIX,time.xtracloud.net
 DOMAIN-SUFFIX,tj-pod1-smp-device.apple.com
 DOMAIN-SUFFIX,tools.google.com
-DOMAIN-SUFFIX,tools.l.google.com
 DOMAIN-SUFFIX,tp.louisvuitton.com
-DOMAIN-SUFFIX,uberproxy-debug4.corp.google.com
-DOMAIN-SUFFIX,uberproxy.corp.google.com
-DOMAIN-SUFFIX,uberproxy6.corp.google.com
 DOMAIN-SUFFIX,universal-activity-service.itunes.apple.com
 DOMAIN-SUFFIX,update.crashlytics.com
 DOMAIN-SUFFIX,update.googleapis.com
@@ -600,7 +570,6 @@ DOMAIN-SUFFIX,www.pxcc.com
 DOMAIN-SUFFIX,www.recaptcha.net
 DOMAIN-SUFFIX,www.support.apple.com
 DOMAIN-SUFFIX,www4-static.gog-statics.com
-DOMAIN-SUFFIX,xn--flw351e.com
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,xtratime.qcomgeo2.com
 DOMAIN-SUFFIX,xz.pphimalayanrt.com
@@ -2287,6 +2256,7 @@ DOMAIN-SUFFIX,12322app.com
 DOMAIN-SUFFIX,123242.com
 DOMAIN-SUFFIX,123245.com
 DOMAIN-SUFFIX,123254.com
+DOMAIN-SUFFIX,123278.com
 DOMAIN-SUFFIX,123294.com
 DOMAIN-SUFFIX,123295.com
 DOMAIN-SUFFIX,12333.com
@@ -4409,6 +4379,7 @@ DOMAIN-SUFFIX,3323399.com
 DOMAIN-SUFFIX,332831.com
 DOMAIN-SUFFIX,333-555.com
 DOMAIN-SUFFIX,333.com
+DOMAIN-SUFFIX,3331.com
 DOMAIN-SUFFIX,33315.com
 DOMAIN-SUFFIX,333232.xyz
 DOMAIN-SUFFIX,333333.com
@@ -13147,6 +13118,7 @@ DOMAIN-SUFFIX,ant-cloud.net
 DOMAIN-SUFFIX,ant-financial.com
 DOMAIN-SUFFIX,ant-open.com
 DOMAIN-SUFFIX,anta.com
+DOMAIN-SUFFIX,antafu.com
 DOMAIN-SUFFIX,antaiib.com
 DOMAIN-SUFFIX,antairui.net
 DOMAIN-SUFFIX,antangbusiness.com
@@ -16560,6 +16532,7 @@ DOMAIN-SUFFIX,bhshtksp.com
 DOMAIN-SUFFIX,bhshunhui.com
 DOMAIN-SUFFIX,bhshyy.com
 DOMAIN-SUFFIX,bhsr.com
+DOMAIN-SUFFIX,bhsun.com
 DOMAIN-SUFFIX,bhszyyy.com
 DOMAIN-SUFFIX,bhtv.cc
 DOMAIN-SUFFIX,bhuitong.com
@@ -49622,7 +49595,6 @@ DOMAIN-SUFFIX,hujibbs.com
 DOMAIN-SUFFIX,hujingnb.com
 DOMAIN-SUFFIX,huke88.com
 DOMAIN-SUFFIX,hukeck.com
-DOMAIN-SUFFIX,hukelc.com
 DOMAIN-SUFFIX,hukenb.com
 DOMAIN-SUFFIX,hukexyy.com
 DOMAIN-SUFFIX,hukou021.com
@@ -50834,6 +50806,7 @@ DOMAIN-SUFFIX,hzzkj.net
 DOMAIN-SUFFIX,hzzp.com
 DOMAIN-SUFFIX,hzzpko3186.vip
 DOMAIN-SUFFIX,hzzqzc.com
+DOMAIN-SUFFIX,hzzred.com
 DOMAIN-SUFFIX,hzzrmc.com
 DOMAIN-SUFFIX,hzzsfs.com
 DOMAIN-SUFFIX,hzzsxh.com
@@ -55018,6 +54991,7 @@ DOMAIN-SUFFIX,jidouauto.com
 DOMAIN-SUFFIX,jidubook.com
 DOMAIN-SUFFIX,jidujiao.com
 DOMAIN-SUFFIX,jidujiasu.com
+DOMAIN-SUFFIX,jie.ge
 DOMAIN-SUFFIX,jieanjiaotong.com
 DOMAIN-SUFFIX,jiebai.com
 DOMAIN-SUFFIX,jiebanchuyou.com
@@ -55346,6 +55320,7 @@ DOMAIN-SUFFIX,jingdongyouxuan.com
 DOMAIN-SUFFIX,jingdudai.com
 DOMAIN-SUFFIX,jingdukaoyan.com
 DOMAIN-SUFFIX,jingdw.com
+DOMAIN-SUFFIX,jingeshou.com
 DOMAIN-SUFFIX,jingge.com
 DOMAIN-SUFFIX,jinggeng.net
 DOMAIN-SUFFIX,jinggon.com
@@ -56029,6 +56004,7 @@ DOMAIN-SUFFIX,jj00.com
 DOMAIN-SUFFIX,jj0833.com
 DOMAIN-SUFFIX,jj20.com
 DOMAIN-SUFFIX,jj59.com
+DOMAIN-SUFFIX,jj5agame.com
 DOMAIN-SUFFIX,jj831.com
 DOMAIN-SUFFIX,jj99.icu
 DOMAIN-SUFFIX,jjbang.com
@@ -56496,7 +56472,6 @@ DOMAIN-SUFFIX,jnydgm.com
 DOMAIN-SUFFIX,jnyng.com
 DOMAIN-SUFFIX,jnyyjt.com
 DOMAIN-SUFFIX,jnzhuoxin.com
-DOMAIN-SUFFIX,jnzjzx.net
 DOMAIN-SUFFIX,jnzl.com
 DOMAIN-SUFFIX,jnzongchi.com
 DOMAIN-SUFFIX,jnzx.cc
@@ -67886,6 +67861,7 @@ DOMAIN-SUFFIX,modelarts-maas.com
 DOMAIN-SUFFIX,modelevel.com
 DOMAIN-SUFFIX,modelltd.com
 DOMAIN-SUFFIX,modelones.com
+DOMAIN-SUFFIX,modelscope.ai
 DOMAIN-SUFFIX,modelscope.net
 DOMAIN-SUFFIX,modelwhale.com
 DOMAIN-SUFFIX,modeng178.com
@@ -78008,7 +77984,6 @@ DOMAIN-SUFFIX,qygbet427.vip
 DOMAIN-SUFFIX,qygjyey.com
 DOMAIN-SUFFIX,qyglzz.com
 DOMAIN-SUFFIX,qygvip128.com
-DOMAIN-SUFFIX,qygvip40.com
 DOMAIN-SUFFIX,qyhgsb.com
 DOMAIN-SUFFIX,qyhl.vip
 DOMAIN-SUFFIX,qyhr.org
@@ -78972,7 +78947,6 @@ DOMAIN-SUFFIX,rightknights.com
 DOMAIN-SUFFIX,rightpaddle.com
 DOMAIN-SUFFIX,rigol.com
 DOMAIN-SUFFIX,rigouwang.com
-DOMAIN-SUFFIX,riitao.com
 DOMAIN-SUFFIX,riji001.com
 DOMAIN-SUFFIX,riji100zi.com
 DOMAIN-SUFFIX,rijigu.com
@@ -79989,6 +79963,7 @@ DOMAIN-SUFFIX,safenext.com
 DOMAIN-SUFFIX,safetyimg.com
 DOMAIN-SUFFIX,safetystatic.com
 DOMAIN-SUFFIX,safetyvod.com
+DOMAIN-SUFFIX,safewk.com
 DOMAIN-SUFFIX,safround.com
 DOMAIN-SUFFIX,sagewc-exp.com
 DOMAIN-SUFFIX,sagigame.net
@@ -81025,7 +81000,6 @@ DOMAIN-SUFFIX,sdglobaltrade.com
 DOMAIN-SUFFIX,sdglql.com
 DOMAIN-SUFFIX,sdgmjiaoyun.com
 DOMAIN-SUFFIX,sdgren.com
-DOMAIN-SUFFIX,sdgsdggg.xyz
 DOMAIN-SUFFIX,sdgsgcjsjt.com
 DOMAIN-SUFFIX,sdgsjc.com
 DOMAIN-SUFFIX,sdgslb.com
@@ -81102,6 +81076,7 @@ DOMAIN-SUFFIX,sdj88.com
 DOMAIN-SUFFIX,sdjcf.com
 DOMAIN-SUFFIX,sdjcsh.com
 DOMAIN-SUFFIX,sdjcw.com
+DOMAIN-SUFFIX,sdjcxxgs.com
 DOMAIN-SUFFIX,sdjiance.com
 DOMAIN-SUFFIX,sdjiankan.com
 DOMAIN-SUFFIX,sdjianmei.com
@@ -96033,6 +96008,7 @@ DOMAIN-SUFFIX,wcjbb.net
 DOMAIN-SUFFIX,wcjm.org
 DOMAIN-SUFFIX,wclbox.com
 DOMAIN-SUFFIX,wcloud.com
+DOMAIN-SUFFIX,wcloudcdn.com
 DOMAIN-SUFFIX,wcode.net
 DOMAIN-SUFFIX,wcp.hk
 DOMAIN-SUFFIX,wcqjyw.com
@@ -97789,7 +97765,6 @@ DOMAIN-SUFFIX,wisdri.com
 DOMAIN-SUFFIX,wise-iot.com
 DOMAIN-SUFFIX,wise99.com
 DOMAIN-SUFFIX,wiseasy.com
-DOMAIN-SUFFIX,wisebond.net
 DOMAIN-SUFFIX,wisecity.net
 DOMAIN-SUFFIX,wisecotech.com
 DOMAIN-SUFFIX,wisedoo.com
@@ -98845,6 +98820,7 @@ DOMAIN-SUFFIX,wujogroup.com
 DOMAIN-SUFFIX,wujue.com
 DOMAIN-SUFFIX,wukaikai.tech
 DOMAIN-SUFFIX,wukao.com
+DOMAIN-SUFFIX,wukazhifupos.com
 DOMAIN-SUFFIX,wukong.com
 DOMAIN-SUFFIX,wukong.la
 DOMAIN-SUFFIX,wukongbjb.com
@@ -110267,6 +110243,7 @@ DOMAIN-SUFFIX,zhenyuansoft.com
 DOMAIN-SUFFIX,zhenyunpan.com
 DOMAIN-SUFFIX,zhenzhuchanfu.com
 DOMAIN-SUFFIX,zheshenet.com
+DOMAIN-SUFFIX,zheshouka.com
 DOMAIN-SUFFIX,zhetao.com
 DOMAIN-SUFFIX,zhetian.org
 DOMAIN-SUFFIX,zhetouniu.com
@@ -122099,10 +122076,10 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,qiyi
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.1.8.0/21,no-resolve
 IP-CIDR,1.116.0.0/14,no-resolve
@@ -124956,6 +124933,7 @@ IP-CIDR,74.119.193.4/30,no-resolve
 IP-CIDR,74.119.193.64/26,no-resolve
 IP-CIDR,74.119.193.8/29,no-resolve
 IP-CIDR,74.125.16.64/26,no-resolve
+IP-CIDR,74.214.161.0/24,no-resolve
 IP-CIDR,74.63.27.0/24,no-resolve
 IP-CIDR,74.80.115.0/24,no-resolve
 IP-CIDR,75.75.236.0/29,no-resolve
@@ -129129,29 +129107,29 @@ USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MGTV*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
 USER-AGENT,Youku*
-USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
-USER-AGENT,youku*
-USER-AGENT,Himalaya*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
+USER-AGENT,youku*
+USER-AGENT,Himalaya*
+USER-AGENT,MGTV*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,baiduyinyue
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.bilibili.app.blue
 PROCESS-NAME,com.bilibili.app.in
