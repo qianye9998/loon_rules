@@ -1,4 +1,4 @@
-# Generated: 2026-05-22 06:55:25 UTC
+# Generated: 2026-05-23 06:17:53 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -121504,7 +121504,6 @@ DOMAIN-SUFFIX,100.xn--czrs0t
 DOMAIN-SUFFIX,100.xn--vhquv
 DOMAIN-SUFFIX,10000.xn--vhquv
 DOMAIN-SUFFIX,10086.xn--czrs0t
-DOMAIN-SUFFIX,11.xn--czrs0t
 DOMAIN-SUFFIX,11.xn--vhquv
 DOMAIN-SUFFIX,111.xn--vhquv
 DOMAIN-SUFFIX,1111.xn--vhquv
@@ -121538,6 +121537,7 @@ DOMAIN-SUFFIX,33.xn--vhquv
 DOMAIN-SUFFIX,333.xn--czrs0t
 DOMAIN-SUFFIX,360.xn--czrs0t
 DOMAIN-SUFFIX,360.xn--vhquv
+DOMAIN-SUFFIX,365.hk
 DOMAIN-SUFFIX,3699.xn--unup4y
 DOMAIN-SUFFIX,4.xn--czrs0t
 DOMAIN-SUFFIX,4.xn--vhquv
@@ -121620,7 +121620,6 @@ DOMAIN-SUFFIX,axon-download-cdn.razerzone.com
 DOMAIN-SUFFIX,axon.razerzone.com
 DOMAIN-SUFFIX,b2bicn.lenovo.com
 DOMAIN-SUFFIX,b2c.lenovo.com
-DOMAIN-SUFFIX,baidu.jp
 DOMAIN-SUFFIX,bbs.dji.com
 DOMAIN-SUFFIX,bbs.dji.net
 DOMAIN-SUFFIX,bbs.djicdn.com
@@ -121628,6 +121627,7 @@ DOMAIN-SUFFIX,bgp.deploy.akamai.com
 DOMAIN-SUFFIX,box.lenovo.com
 DOMAIN-SUFFIX,brain.lenovo.com
 DOMAIN-SUFFIX,bsp.lenovo.com
+DOMAIN-SUFFIX,bugaicuoguo.com
 DOMAIN-SUFFIX,busytrade.com
 DOMAIN-SUFFIX,c.citic
 DOMAIN-SUFFIX,callhome.uds-qa.lenovo.com
@@ -121672,6 +121672,7 @@ DOMAIN-SUFFIX,cube.lenovo.com
 DOMAIN-SUFFIX,customer.lenovo.com
 DOMAIN-SUFFIX,d.codata.lenovo.com
 DOMAIN-SUFFIX,dashboard.deploy.akamai.com
+DOMAIN-SUFFIX,dataheiheihome.com
 DOMAIN-SUFFIX,daystar.lenovo.com
 DOMAIN-SUFFIX,dcmap.deploy.akamai.com
 DOMAIN-SUFFIX,dcmap2.deploy.akamai.com
@@ -121708,6 +121709,7 @@ DOMAIN-SUFFIX,enterprise.dji.com
 DOMAIN-SUFFIX,entertainment.dji.com
 DOMAIN-SUFFIX,epkipro.globalsign.com
 DOMAIN-SUFFIX,fangdalaw.box.lenovo.com
+DOMAIN-SUFFIX,fengniaourl.com
 DOMAIN-SUFFIX,fly-safe.dji.com
 DOMAIN-SUFFIX,flysafe-api.dji.com
 DOMAIN-SUFFIX,flysafe.dji.com
@@ -121716,7 +121718,9 @@ DOMAIN-SUFFIX,fodapi.lenovo.com
 DOMAIN-SUFFIX,gack.citic
 DOMAIN-SUFFIX,galaxymacau.com
 DOMAIN-SUFFIX,galstars.net
+DOMAIN-SUFFIX,ganfanniu.com
 DOMAIN-SUFFIX,gator.deploy.akamai.com
+DOMAIN-SUFFIX,gdjhtx.com
 DOMAIN-SUFFIX,geo.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,geo.uds-sit.lenovo.com
 DOMAIN-SUFFIX,global.prd.cdn.globalsign.com
@@ -121725,7 +121729,6 @@ DOMAIN-SUFFIX,gs2-geo.psn.akadns99.net
 DOMAIN-SUFFIX,gzyat.relmeetingapp.lenovo.com
 DOMAIN-SUFFIX,hardware.deploy.akamai.com
 DOMAIN-SUFFIX,hci.lenovo.com
-DOMAIN-SUFFIX,hcs.globalsign.com
 DOMAIN-SUFFIX,he.deploy.akamai.com
 DOMAIN-SUFFIX,health.citic
 DOMAIN-SUFFIX,heimdallr.dji.com
@@ -121738,6 +121741,7 @@ DOMAIN-SUFFIX,img.samsungapps.com.akadns99.net
 DOMAIN-SUFFIX,img.videos.dji.net
 DOMAIN-SUFFIX,inapi.lenovo.com
 DOMAIN-SUFFIX,info.support.web02.huawei.akadns99.net
+DOMAIN-SUFFIX,initak.com
 DOMAIN-SUFFIX,ins.citic
 DOMAIN-SUFFIX,ipgpassport.lenovo.com
 DOMAIN-SUFFIX,issues.deploy.akamai.com
@@ -121751,8 +121755,7 @@ DOMAIN-SUFFIX,laogu.wang
 DOMAIN-SUFFIX,lcp.lenovo.com
 DOMAIN-SUFFIX,legionzone.lenovo.com
 DOMAIN-SUFFIX,link.dji.com
-DOMAIN-SUFFIX,lm-sa.csc.edu.cn.akadns99.net
-DOMAIN-SUFFIX,lm-studyinchina.csc.edu.cn.akadns99.net
+DOMAIN-SUFFIX,lisuantech.com
 DOMAIN-SUFFIX,lms.lenovo.com
 DOMAIN-SUFFIX,log-smart.lenovo.com
 DOMAIN-SUFFIX,logistics.deploy.akamai.com
@@ -121784,6 +121787,7 @@ DOMAIN-SUFFIX,mobileapp-assets-dev.razerzone.com
 DOMAIN-SUFFIX,mobileapp-assets-staging.razerzone.com
 DOMAIN-SUFFIX,mobileapp-assets.razerzone.com
 DOMAIN-SUFFIX,momentum.akamai.com
+DOMAIN-SUFFIX,moondroplab.tech
 DOMAIN-SUFFIX,mqtt-mtls.cnno1.uds-sit.lenovo.com
 DOMAIN-SUFFIX,mqtt.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,my.akamai.com
@@ -121926,11 +121930,13 @@ DOMAIN-SUFFIX,test-relay-service.djicdn.com
 DOMAIN-SUFFIX,test.codata.lenovo.com
 DOMAIN-SUFFIX,test.qi.lenovo.com
 DOMAIN-SUFFIX,testjp.globalsign.com
+DOMAIN-SUFFIX,todust.cc
 DOMAIN-SUFFIX,tokyo.skypixel.com
 DOMAIN-SUFFIX,tools.deploy.akamai.com
 DOMAIN-SUFFIX,tools.gss.akamai.com
 DOMAIN-SUFFIX,top
 DOMAIN-SUFFIX,transformu.lenovo.com
+DOMAIN-SUFFIX,tutu-caonima.com
 DOMAIN-SUFFIX,tv.sohu
 DOMAIN-SUFFIX,u.dji.com
 DOMAIN-SUFFIX,us-ag2-api.dji.com
@@ -121939,6 +121945,7 @@ DOMAIN-SUFFIX,v.sohu
 DOMAIN-SUFFIX,victim.xn--vuq861b
 DOMAIN-SUFFIX,voc.lenovo.com
 DOMAIN-SUFFIX,wan.wang
+DOMAIN-SUFFIX,wankeji.com
 DOMAIN-SUFFIX,we.dji.com
 DOMAIN-SUFFIX,webmail.akamai.com
 DOMAIN-SUFFIX,webvpn.cn.lenovo.com
@@ -122030,6 +122037,7 @@ DOMAIN-SUFFIX,xn--xhq95newgtxk9sk8k6a9r4ba.xn--3ds443g
 DOMAIN-SUFFIX,xn--z3vq3r3u4a.xn--czr694b
 DOMAIN-SUFFIX,xn--zwtr2f7xebqvx24ax9a.xn--3ds443g
 DOMAIN-SUFFIX,yanghengjun.com
+DOMAIN-SUFFIX,yichkp.com
 DOMAIN-SUFFIX,yun.lenovo.com
 DOMAIN-SUFFIX,zlzpdemo.cube.lenovo.com
 DOMAIN-SUFFIX,ms
