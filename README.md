@@ -8,6 +8,7 @@ Personal Loon rules repository for GitHub hosting.
 loon-rules/
 |-- README.md
 |-- Loon.conf
+|-- Shadowrocket.conf
 |-- .github/workflows/sync-upstream-rules.yml
 |-- scripts/sync_upstream_rules.sh
 `-- rules/
@@ -19,7 +20,7 @@ loon-rules/
 ## Usage
 
 1. Upload this repository to GitHub.
-2. Use the three rule URLs in your existing Loon profile, or copy the `[Rule]` snippet from `Loon.conf`.
+2. Use the three rule URLs in your existing Loon or Shadowrocket profile, or use `Loon.conf` / `Shadowrocket.conf` directly.
 
 ## Auto Sync
 
@@ -63,4 +64,11 @@ The sync script converts plain domains and dnsmasq entries into Loon-compatible 
 https://raw.githubusercontent.com/qianye9998/loon_rules/main/rules/10_domestic_direct.list
 https://raw.githubusercontent.com/qianye9998/loon_rules/main/rules/20_custom_direct.list
 https://raw.githubusercontent.com/qianye9998/loon_rules/main/rules/25_ai_proxy.list
+```
+
+Config URLs:
+
+```text
+https://raw.githubusercontent.com/qianye9998/loon_rules/main/Loon.conf
+https://raw.githubusercontent.com/qianye9998/loon_rules/main/Shadowrocket.conf
 ```
