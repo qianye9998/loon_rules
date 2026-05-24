@@ -1,4 +1,4 @@
-# Generated: 2026-05-24 06:44:43 UTC
+# Generated: 2026-05-24 16:26:44 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -121525,6 +121525,7 @@ DOMAIN-SUFFIX,heimdallr.dji.com
 DOMAIN-SUFFIX,homeedgeserver.lenovo.com
 DOMAIN-SUFFIX,hostedocsp.atlas.globalsign.com
 DOMAIN-SUFFIX,i.survey.lenovo.com
+DOMAIN-SUFFIX,ichongqing.info
 DOMAIN-SUFFIX,image.dji.com
 DOMAIN-SUFFIX,imfg.lenovo.com
 DOMAIN-SUFFIX,img.samsungapps.com.akadns99.net
@@ -121539,6 +121540,7 @@ DOMAIN-SUFFIX,j.people.com.cn.akadns99.net
 DOMAIN-SUFFIX,jingqu.wang
 DOMAIN-SUFFIX,jp.globalsign.com
 DOMAIN-SUFFIX,k.sohu
+DOMAIN-SUFFIX,knfastpic.com
 DOMAIN-SUFFIX,kt.lenovo.com
 DOMAIN-SUFFIX,laogu.wang
 DOMAIN-SUFFIX,lcp.lenovo.com
@@ -121633,6 +121635,7 @@ DOMAIN-SUFFIX,qas-cnlogistics.lenovo.com
 DOMAIN-SUFFIX,qcut.dji.com
 DOMAIN-SUFFIX,qi.lenovo.com
 DOMAIN-SUFFIX,qliksense.lenovo.com
+DOMAIN-SUFFIX,qnvip.com
 DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,razer-customer-swassets.razerzone.com
 DOMAIN-SUFFIX,razerid-assets-staging.razerzone.com

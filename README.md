@@ -8,24 +8,24 @@ Personal Loon rules repository for GitHub hosting.
 loon-rules/
 |-- README.md
 |-- Loon.conf
-|-- Shadowrocket.conf
 |-- .github/workflows/sync-upstream-rules.yml
 |-- scripts/sync_upstream_rules.sh
 `-- rules/
     |-- 10_domestic_direct.list
     |-- 20_custom_direct.list
+    |-- 25_ai_proxy.list
 ```
 
 ## Usage
 
 1. Upload this repository to GitHub.
-2. Use the two rule URLs in your existing Loon or Shadowrocket profile, or use `Loon.conf` / `Shadowrocket.conf` directly.
+2. Use the three rule URLs in your existing Loon profile, or use `Loon.conf` directly.
 
 ## Auto Sync
 
 This repository includes a GitHub Actions workflow that updates the upstream rules every day.
 For the synced categories, the script first reads multiple upstream rule URLs, writes them into the target file, and then deduplicates every `.list` file under `rules/`.
-The repository keeps `rules/10_domestic_direct.list` as a synced file in git and refreshes it on each script or workflow run.
+The repository keeps `rules/10_domestic_direct.list` and `rules/25_ai_proxy.list` as synced files in git and refreshes them on each script or workflow run.
 The repository keeps `rules/20_custom_direct.list` for manual maintenance and deduplicates it during each sync run.
 
 Current upstream mapping:
@@ -41,6 +41,8 @@ Current upstream mapping:
   - `https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf`
   - `https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax.list`
 - `rules/20_custom_direct.list` <= maintained manually, deduplicated daily
+- `rules/25_ai_proxy.list` <= combined from:
+  - `https://raw.githubusercontent.com/Moli-X/Tool/X/Loon/Rules/AI.list`
 
 The workflow file is:
 
@@ -60,11 +62,11 @@ The sync script converts plain domains and dnsmasq entries into Loon-compatible 
 ```text
 https://raw.githubusercontent.com/qianye9998/loon_rules/main/rules/10_domestic_direct.list
 https://raw.githubusercontent.com/qianye9998/loon_rules/main/rules/20_custom_direct.list
+https://raw.githubusercontent.com/qianye9998/loon_rules/main/rules/25_ai_proxy.list
 ```
 
-Config URLs:
+Config URL:
 
 ```text
 https://raw.githubusercontent.com/qianye9998/loon_rules/main/Loon.conf
-https://raw.githubusercontent.com/qianye9998/loon_rules/main/Shadowrocket.conf
 ```

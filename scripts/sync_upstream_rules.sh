@@ -122,6 +122,7 @@ dedupe_all_rules() {
   local rule_files=(
     "${ROOT_DIR}/rules/10_domestic_direct.list"
     "${ROOT_DIR}/rules/20_custom_direct.list"
+    "${ROOT_DIR}/rules/25_ai_proxy.list"
   )
   local rule_file
 
@@ -143,6 +144,10 @@ sync_combined_rules \
   "standard|https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list" \
   "dnsmasq_domain|https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf" \
   "standard|https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax.list"
+
+sync_combined_rules \
+  "rules/25_ai_proxy.list" \
+  "standard|https://raw.githubusercontent.com/Moli-X/Tool/X/Loon/Rules/AI.list"
 
 dedupe_all_rules
 
