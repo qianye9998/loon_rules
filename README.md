@@ -1,13 +1,12 @@
 # loon-rules
 
-Personal Loon rules repository for GitHub hosting.
+Personal proxy rules repository for GitHub hosting.
 
 ## Structure
 
 ```text
 loon-rules/
 |-- README.md
-|-- Loon.conf
 |-- shadowrocket.conf
 |-- .github/workflows/sync-upstream-rules.yml
 |-- scripts/sync_upstream_rules.sh
@@ -19,7 +18,7 @@ loon-rules/
 ## Usage
 
 1. Upload this repository to GitHub.
-2. Use `Loon.conf` or `shadowrocket.conf` directly, or reference the rule URLs from an existing profile.
+2. Use `shadowrocket.conf` directly, or reference the rule URLs from an existing profile.
 
 ## Auto Sync
 
@@ -53,7 +52,7 @@ You can trigger it manually from the GitHub Actions page, or let it run on sched
 ## Upstream Notes
 
 The direct sources include a mix of plain domain lists, Clash/Surge-style rule lists, and dnsmasq domain pools.
-The sync script converts plain domains and dnsmasq entries into Loon-compatible `DOMAIN-SUFFIX` rules, strips upstream comments and empty lines, normalizes whitespace, and then deduplicates the merged result.
+The sync script converts plain domains and dnsmasq entries into `DOMAIN-SUFFIX` rules, strips upstream comments and empty lines, normalizes whitespace, and then deduplicates the merged result.
 
 ## Raw URL Example
 
@@ -65,6 +64,5 @@ https://raw.githubusercontent.com/qianye9998/loon_rules/main/rules/20_custom_dir
 Config URL:
 
 ```text
-https://raw.githubusercontent.com/qianye9998/loon_rules/main/Loon.conf
 https://raw.githubusercontent.com/qianye9998/loon_rules/main/shadowrocket.conf
 ```
