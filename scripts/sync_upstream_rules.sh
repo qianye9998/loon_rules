@@ -122,7 +122,6 @@ dedupe_all_rules() {
   local rule_files=(
     "${ROOT_DIR}/rules/10_domestic_direct.list"
     "${ROOT_DIR}/rules/20_custom_direct.list"
-    "${ROOT_DIR}/rules/25_ai_proxy.list"
   )
   local rule_file
 
@@ -133,25 +132,17 @@ dedupe_all_rules() {
   done
 }
 
-reset_disabled_direct_rules() {
-  local target="$1"
-  local tmp_file
-
-  tmp_file="$(mktemp)"
-
-  {
-    echo "# Domestic direct rules are intentionally disabled."
-    echo "# Keep manual direct rules in rules/20_custom_direct.list."
-  } > "${tmp_file}"
-
-  mv "${tmp_file}" "${ROOT_DIR}/${target}"
-}
-
-reset_disabled_direct_rules "rules/10_domestic_direct.list"
-
 sync_combined_rules \
-  "rules/25_ai_proxy.list" \
-  "standard|https://raw.githubusercontent.com/Moli-X/Tool/X/Loon/Rules/AI.list"
+  "rules/10_domestic_direct.list" \
+  "plain_domain|https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt" \
+  "plain_domain|https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt" \
+  "standard|https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list" \
+  "standard|https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list" \
+  "standard|https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list" \
+  "standard|https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list" \
+  "standard|https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list" \
+  "dnsmasq_domain|https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf" \
+  "standard|https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax.list"
 
 dedupe_all_rules
 
