@@ -1,4 +1,4 @@
-# Generated: 2026-06-15 09:31:49 UTC
+# Generated: 2026-06-16 08:52:37 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -11519,6 +11519,7 @@ DOMAIN-SUFFIX,aichangbaishan.com
 DOMAIN-SUFFIX,aichaoxing.com
 DOMAIN-SUFFIX,aichat.net
 DOMAIN-SUFFIX,aichat1234.com
+DOMAIN-SUFFIX,aichaxun.com
 DOMAIN-SUFFIX,aichehome.com
 DOMAIN-SUFFIX,aichi-zhe.com
 DOMAIN-SUFFIX,aichinaw.com
@@ -15626,6 +15627,7 @@ DOMAIN-SUFFIX,bdatu.com
 DOMAIN-SUFFIX,bdbae.com
 DOMAIN-SUFFIX,bdc-rays.com
 DOMAIN-SUFFIX,bdcb.cc
+DOMAIN-SUFFIX,bdcgslb.com
 DOMAIN-SUFFIX,bdcgz.com
 DOMAIN-SUFFIX,bdchangtujs.com
 DOMAIN-SUFFIX,bdchina.com
@@ -21360,6 +21362,7 @@ DOMAIN-SUFFIX,charmsunfund.com
 DOMAIN-SUFFIX,chartboost-china.com
 DOMAIN-SUFFIX,chase-secure55.wiki
 DOMAIN-SUFFIX,chasedorisu.com
+DOMAIN-SUFFIX,chasedream.com
 DOMAIN-SUFFIX,chaseyanyu.net
 DOMAIN-SUFFIX,chashebao.com
 DOMAIN-SUFFIX,chashudi.com
@@ -26835,6 +26838,7 @@ DOMAIN-SUFFIX,csghy.com
 DOMAIN-SUFFIX,csgjhzzx.com
 DOMAIN-SUFFIX,csgjjt.com
 DOMAIN-SUFFIX,csgkjt.com
+DOMAIN-SUFFIX,csgky.net
 DOMAIN-SUFFIX,csgocn.net
 DOMAIN-SUFFIX,csgongshui.com
 DOMAIN-SUFFIX,csgpc.org
@@ -51543,6 +51547,7 @@ DOMAIN-SUFFIX,ikuju.com
 DOMAIN-SUFFIX,ikunac.com
 DOMAIN-SUFFIX,ikuncdnfb.com
 DOMAIN-SUFFIX,ikunpay.com
+DOMAIN-SUFFIX,ikutu.com
 DOMAIN-SUFFIX,ikx.me
 DOMAIN-SUFFIX,ikzybf.com
 DOMAIN-SUFFIX,il8r.com
@@ -51591,6 +51596,7 @@ DOMAIN-SUFFIX,illl.xyz
 DOMAIN-SUFFIX,ilmgq.com
 DOMAIN-SUFFIX,ilohas.com
 DOMAIN-SUFFIX,iloli.bid
+DOMAIN-SUFFIX,iloli.love
 DOMAIN-SUFFIX,iloli.xin
 DOMAIN-SUFFIX,ilongre.com
 DOMAIN-SUFFIX,ilovechao.com
@@ -51837,6 +51843,7 @@ DOMAIN-SUFFIX,imsle.com
 DOMAIN-SUFFIX,imsun.net
 DOMAIN-SUFFIX,imsyy.com
 DOMAIN-SUFFIX,imtaweb.net
+DOMAIN-SUFFIX,imtedge.com
 DOMAIN-SUFFIX,imtics.com
 DOMAIN-SUFFIX,imtmp.net
 DOMAIN-SUFFIX,imtrwqjier3.com
@@ -54555,6 +54562,7 @@ DOMAIN-SUFFIX,jiemin.com
 DOMAIN-SUFFIX,jiemo.net
 DOMAIN-SUFFIX,jiemodui.com
 DOMAIN-SUFFIX,jiemoselect.com
+DOMAIN-SUFFIX,jiemu5.com
 DOMAIN-SUFFIX,jienyl.com
 DOMAIN-SUFFIX,jiepai.net
 DOMAIN-SUFFIX,jiepaids.com
@@ -58759,6 +58767,7 @@ DOMAIN-SUFFIX,kfb163.com
 DOMAIN-SUFFIX,kfcbest.com
 DOMAIN-SUFFIX,kfcdn.com
 DOMAIN-SUFFIX,kfcjrl.com
+DOMAIN-SUFFIX,kfcrm.com
 DOMAIN-SUFFIX,kfd3sm2c.com
 DOMAIN-SUFFIX,kfdcc.com
 DOMAIN-SUFFIX,kffone.com
@@ -59915,6 +59924,7 @@ DOMAIN-SUFFIX,kunchuang.com
 DOMAIN-SUFFIX,kunduo.com
 DOMAIN-SUFFIX,kungfucloud.com
 DOMAIN-SUFFIX,kungfuenglish.com
+DOMAIN-SUFFIX,kungfumars.com
 DOMAIN-SUFFIX,kunguankeji.com
 DOMAIN-SUFFIX,kunguanyx.net
 DOMAIN-SUFFIX,kunjuke.com
@@ -64577,6 +64587,7 @@ DOMAIN-SUFFIX,m2ez.com
 DOMAIN-SUFFIX,m2mlib.com
 DOMAIN-SUFFIX,m2mzy.com
 DOMAIN-SUFFIX,m2time.net
+DOMAIN-SUFFIX,m2ucam.com
 DOMAIN-SUFFIX,m3-cloud.com
 DOMAIN-SUFFIX,m3cqjc3og6.com
 DOMAIN-SUFFIX,m3guo.com
@@ -65540,6 +65551,7 @@ DOMAIN-SUFFIX,mdmt.com
 DOMAIN-SUFFIX,mdnice.com
 DOMAIN-SUFFIX,mdouvip.com
 DOMAIN-SUFFIX,mdouwz.com
+DOMAIN-SUFFIX,mdown.asia
 DOMAIN-SUFFIX,mdpda.com
 DOMAIN-SUFFIX,mdpetrotech.com
 DOMAIN-SUFFIX,mdrmyy.com
@@ -69798,6 +69810,7 @@ DOMAIN-SUFFIX,niujinniu.com
 DOMAIN-SUFFIX,niuk12020gi.com
 DOMAIN-SUFFIX,niukk.com
 DOMAIN-SUFFIX,niuming147.com
+DOMAIN-SUFFIX,niumowang.com
 DOMAIN-SUFFIX,niunai.com
 DOMAIN-SUFFIX,niuniufund.com
 DOMAIN-SUFFIX,niupiano.com
@@ -72101,6 +72114,7 @@ DOMAIN-SUFFIX,orayer.com
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,orbiepharm.com
 DOMAIN-SUFFIX,orbitmes.com
+DOMAIN-SUFFIX,orbrand.com
 DOMAIN-SUFFIX,orcadt.com
 DOMAIN-SUFFIX,orchome.com
 DOMAIN-SUFFIX,orcode.com
@@ -75150,6 +75164,7 @@ DOMAIN-SUFFIX,qgwzjs.com
 DOMAIN-SUFFIX,qgxl.org
 DOMAIN-SUFFIX,qgyqshz.com
 DOMAIN-SUFFIX,qgysj.org
+DOMAIN-SUFFIX,qgyyl.com
 DOMAIN-SUFFIX,qgyyzs.net
 DOMAIN-SUFFIX,qgzb.net
 DOMAIN-SUFFIX,qgzxx.com
@@ -90494,6 +90509,7 @@ DOMAIN-SUFFIX,to999.com
 DOMAIN-SUFFIX,toast.pub
 DOMAIN-SUFFIX,toaw.net
 DOMAIN-SUFFIX,tobaccochina.com
+DOMAIN-SUFFIX,tobaccodb.org
 DOMAIN-SUFFIX,tobaccosz.com
 DOMAIN-SUFFIX,tobebetterjavaer.com
 DOMAIN-SUFFIX,toberp.com
@@ -91496,6 +91512,7 @@ DOMAIN-SUFFIX,ttn8.com
 DOMAIN-SUFFIX,ttnea.com
 DOMAIN-SUFFIX,ttnongli.com
 DOMAIN-SUFFIX,ttnqh.com
+DOMAIN-SUFFIX,ttoffice.net
 DOMAIN-SUFFIX,ttongda.com
 DOMAIN-SUFFIX,ttpaicdn.com
 DOMAIN-SUFFIX,ttpaihang.com
@@ -95692,6 +95709,7 @@ DOMAIN-SUFFIX,weishi100.com
 DOMAIN-SUFFIX,weishigz.com
 DOMAIN-SUFFIX,weishipin.com
 DOMAIN-SUFFIX,weishishuyuan.com
+DOMAIN-SUFFIX,weishucdn.cloud
 DOMAIN-SUFFIX,weisiliang.com
 DOMAIN-SUFFIX,weismarts.com
 DOMAIN-SUFFIX,weistang.com
@@ -100341,6 +100359,7 @@ DOMAIN-SUFFIX,xindns.com
 DOMAIN-SUFFIX,xindong.com
 DOMAIN-SUFFIX,xindongdinglv.com
 DOMAIN-SUFFIX,xindonghuyu123.com
+DOMAIN-SUFFIX,xindonshan.com
 DOMAIN-SUFFIX,xindu.cc
 DOMAIN-SUFFIX,xinduo.com
 DOMAIN-SUFFIX,xinduoad.com
@@ -100691,6 +100710,7 @@ DOMAIN-SUFFIX,xinruipiao.com
 DOMAIN-SUFFIX,xinruiweb.com
 DOMAIN-SUFFIX,xinsanbanbao.com
 DOMAIN-SUFFIX,xinsankeji.com
+DOMAIN-SUFFIX,xinsannong.com
 DOMAIN-SUFFIX,xinsdn.com
 DOMAIN-SUFFIX,xinsenz.com
 DOMAIN-SUFFIX,xinsf.cc
@@ -102502,6 +102522,7 @@ DOMAIN-SUFFIX,xxkapp.com
 DOMAIN-SUFFIX,xxkucun.com
 DOMAIN-SUFFIX,xxkxjx.net
 DOMAIN-SUFFIX,xxkxw.net
+DOMAIN-SUFFIX,xxlab.tech
 DOMAIN-SUFFIX,xxlcn.com
 DOMAIN-SUFFIX,xxlifexx.com
 DOMAIN-SUFFIX,xxliudsp.com
@@ -120607,10 +120628,10 @@ DOMAIN-SUFFIX,666.xn--czrs0t
 DOMAIN-SUFFIX,666.xn--unup4y
 DOMAIN-SUFFIX,666.xn--vhquv
 DOMAIN-SUFFIX,678.xn--vhquv
-DOMAIN-SUFFIX,6888.xn--vhquv
 DOMAIN-SUFFIX,6g.xn--czrs0t
 DOMAIN-SUFFIX,6g.xn--vhquv
 DOMAIN-SUFFIX,95081.com
+DOMAIN-SUFFIX,9zadx.com
 DOMAIN-SUFFIX,account-api.dji.com
 DOMAIN-SUFFIX,account.djicdn.com
 DOMAIN-SUFFIX,account.uds-sit.lenovo.com
@@ -120625,6 +120646,7 @@ DOMAIN-SUFFIX,agms-us.dji.com
 DOMAIN-SUFFIX,agms.dji.com
 DOMAIN-SUFFIX,airasia.com
 DOMAIN-SUFFIX,akashop1.akamai.com
+DOMAIN-SUFFIX,alidnsv4.com
 DOMAIN-SUFFIX,aloha.akamai.com
 DOMAIN-SUFFIX,analytics.lenovo.com
 DOMAIN-SUFFIX,aotgo.akamai.com
@@ -120665,10 +120687,12 @@ DOMAIN-SUFFIX,axon-download-cdn.razerzone.com
 DOMAIN-SUFFIX,axon.razerzone.com
 DOMAIN-SUFFIX,b2bicn.lenovo.com
 DOMAIN-SUFFIX,b2c.lenovo.com
+DOMAIN-SUFFIX,bb888xx999.com
 DOMAIN-SUFFIX,bbs.dji.com
 DOMAIN-SUFFIX,bbs.dji.net
 DOMAIN-SUFFIX,bbs.djicdn.com
 DOMAIN-SUFFIX,bgp.deploy.akamai.com
+DOMAIN-SUFFIX,bjhxwl.xyz
 DOMAIN-SUFFIX,box.lenovo.com
 DOMAIN-SUFFIX,brain.lenovo.com
 DOMAIN-SUFFIX,bsp.lenovo.com
@@ -120743,6 +120767,7 @@ DOMAIN-SUFFIX,dp.deploy.akamai.com
 DOMAIN-SUFFIX,dps.djiservice.org
 DOMAIN-SUFFIX,dtf.lenovo.com
 DOMAIN-SUFFIX,duanzhihu.com
+DOMAIN-SUFFIX,dun222.com
 DOMAIN-SUFFIX,dundun.wang
 DOMAIN-SUFFIX,duosuna.lenovo.com
 DOMAIN-SUFFIX,en.people.cn.akadns99.net
@@ -120765,6 +120790,7 @@ DOMAIN-SUFFIX,geo.uds-sit.lenovo.com
 DOMAIN-SUFFIX,global.prd.cdn.globalsign.com
 DOMAIN-SUFFIX,group.citic
 DOMAIN-SUFFIX,gs2-geo.psn.akadns99.net
+DOMAIN-SUFFIX,gxlepanjun.com
 DOMAIN-SUFFIX,gzyat.relmeetingapp.lenovo.com
 DOMAIN-SUFFIX,hardware.deploy.akamai.com
 DOMAIN-SUFFIX,hci.lenovo.com
@@ -120774,6 +120800,7 @@ DOMAIN-SUFFIX,heimdallr.dji.com
 DOMAIN-SUFFIX,homeedgeserver.lenovo.com
 DOMAIN-SUFFIX,hostedocsp.atlas.globalsign.com
 DOMAIN-SUFFIX,i.survey.lenovo.com
+DOMAIN-SUFFIX,igetcool.com
 DOMAIN-SUFFIX,image.dji.com
 DOMAIN-SUFFIX,imfg.lenovo.com
 DOMAIN-SUFFIX,img.samsungapps.com.akadns99.net
@@ -120788,10 +120815,13 @@ DOMAIN-SUFFIX,j.people.com.cn.akadns99.net
 DOMAIN-SUFFIX,jingqu.wang
 DOMAIN-SUFFIX,jp.globalsign.com
 DOMAIN-SUFFIX,k.sohu
+DOMAIN-SUFFIX,khvle.com
 DOMAIN-SUFFIX,kt.lenovo.com
+DOMAIN-SUFFIX,kuos.xyz
 DOMAIN-SUFFIX,laogu.wang
 DOMAIN-SUFFIX,lcp.lenovo.com
 DOMAIN-SUFFIX,legionzone.lenovo.com
+DOMAIN-SUFFIX,linfengnet.com
 DOMAIN-SUFFIX,link.dji.com
 DOMAIN-SUFFIX,lms.lenovo.com
 DOMAIN-SUFFIX,log-smart.lenovo.com
@@ -120898,6 +120928,7 @@ DOMAIN-SUFFIX,retail.lenovo.com
 DOMAIN-SUFFIX,rm-static.djicdn.com
 DOMAIN-SUFFIX,rtc.smartedu.lenovo.com
 DOMAIN-SUFFIX,russian.people.com.cn.akadns99.net
+DOMAIN-SUFFIX,ruyi.ai
 DOMAIN-SUFFIX,rzcsassets.razerzone.com
 DOMAIN-SUFFIX,sales.lenovo.com
 DOMAIN-SUFFIX,scc.lenovo.com
@@ -120926,6 +120957,7 @@ DOMAIN-SUFFIX,smbpaasadmin.lenovo.com
 DOMAIN-SUFFIX,soa.lenovo.com
 DOMAIN-SUFFIX,soaus-test.lenovo.com
 DOMAIN-SUFFIX,soaus.lenovo.com
+DOMAIN-SUFFIX,sood6.com
 DOMAIN-SUFFIX,sp-webfront.skypixel.com
 DOMAIN-SUFFIX,space-pek4.welink.web03.huawei.akadns99.net
 DOMAIN-SUFFIX,spcn-webfront.skypixel.com
@@ -120950,6 +120982,7 @@ DOMAIN-SUFFIX,support-chat.dji.com
 DOMAIN-SUFFIX,support.dji.com
 DOMAIN-SUFFIX,support.globalsign.com
 DOMAIN-SUFFIX,sv.lenovo.com
+DOMAIN-SUFFIX,syjiaotong.mobi
 DOMAIN-SUFFIX,synapse-x-assets-dev.razerzone.com
 DOMAIN-SUFFIX,synapse-x-assets-staging.razerzone.com
 DOMAIN-SUFFIX,synapse-x-assets.razerzone.com
@@ -120973,6 +121006,7 @@ DOMAIN-SUFFIX,top
 DOMAIN-SUFFIX,transformu.lenovo.com
 DOMAIN-SUFFIX,tv.sohu
 DOMAIN-SUFFIX,u.dji.com
+DOMAIN-SUFFIX,ucdns7.com
 DOMAIN-SUFFIX,us-ag2-api.dji.com
 DOMAIN-SUFFIX,ustclug.org
 DOMAIN-SUFFIX,v.sohu
@@ -121012,6 +121046,7 @@ DOMAIN-SUFFIX,www4.djicdn.com
 DOMAIN-SUFFIX,www5.djicdn.com
 DOMAIN-SUFFIX,xapi.lenovo.com
 DOMAIN-SUFFIX,xclient.info
+DOMAIN-SUFFIX,xiaoedata.com
 DOMAIN-SUFFIX,xiaoma.wang
 DOMAIN-SUFFIX,xiaoyi.lenovo.com
 DOMAIN-SUFFIX,xn--1lq90iba455sxghy10a.xn--3ds443g
@@ -121068,8 +121103,10 @@ DOMAIN-SUFFIX,xn--xcrv5deweeznlnez29a.xn--3ds443g
 DOMAIN-SUFFIX,xn--xhq95newgtxk9sk8k6a9r4ba.xn--3ds443g
 DOMAIN-SUFFIX,xn--z3vq3r3u4a.xn--czr694b
 DOMAIN-SUFFIX,xn--zwtr2f7xebqvx24ax9a.xn--3ds443g
+DOMAIN-SUFFIX,xqdaolove.com
 DOMAIN-SUFFIX,yanghengjun.com
 DOMAIN-SUFFIX,yun.lenovo.com
+DOMAIN-SUFFIX,yuqncloud.com
 DOMAIN-SUFFIX,zlzpdemo.cube.lenovo.com
 DOMAIN-SUFFIX,ms
 DOMAIN-KEYWORD,.tmall.com
@@ -121705,6 +121742,7 @@ IP-CIDR,107.155.25.116/31,no-resolve
 IP-CIDR,107.158.37.0/24,no-resolve
 IP-CIDR,107.168.4.0/23,no-resolve
 IP-CIDR,107.190.229.0/24,no-resolve
+IP-CIDR,108.186.72.0/24,no-resolve
 IP-CIDR,109.118.6.20/32,no-resolve
 IP-CIDR,109.118.6.23/32,no-resolve
 IP-CIDR,109.134.14.71/32,no-resolve
@@ -122367,7 +122405,10 @@ IP-CIDR,188.240.211.0/25,no-resolve
 IP-CIDR,188.241.80.0/24,no-resolve
 IP-CIDR,188.65.16.0/22,no-resolve
 IP-CIDR,189.12.48.0/24,no-resolve
+IP-CIDR,189.73.18.0/24,no-resolve
+IP-CIDR,189.75.185.0/24,no-resolve
 IP-CIDR,191.217.175.0/24,no-resolve
+IP-CIDR,191.219.18.0/24,no-resolve
 IP-CIDR,191.222.242.0/24,no-resolve
 IP-CIDR,191.222.244.0/24,no-resolve
 IP-CIDR,192.11.23.0/24,no-resolve
@@ -122639,7 +122680,7 @@ IP-CIDR,211.76.108.0/27,no-resolve
 IP-CIDR,212.103.62.0/24,no-resolve
 IP-CIDR,212.134.136.0/24,no-resolve
 IP-CIDR,212.134.159.0/24,no-resolve
-IP-CIDR,212.189.96.0/24,no-resolve
+IP-CIDR,212.189.96.0/23,no-resolve
 IP-CIDR,213.151.233.20/32,no-resolve
 IP-CIDR,213.159.70.0/24,no-resolve
 IP-CIDR,213.182.216.0/21,no-resolve
@@ -123698,7 +123739,7 @@ IP-CIDR,38.54.10.0/32,no-resolve
 IP-CIDR,38.60.143.0/24,no-resolve
 IP-CIDR,38.60.144.0/23,no-resolve
 IP-CIDR,38.60.214.0/32,no-resolve
-IP-CIDR,38.76.140.0/24,no-resolve
+IP-CIDR,38.76.140.0/23,no-resolve
 IP-CIDR,38.94.110.99/32,no-resolve
 IP-CIDR,38.95.118.0/23,no-resolve
 IP-CIDR,38.95.121.0/24,no-resolve
@@ -128093,6 +128134,7 @@ IP-CIDR6,2a14:7583:f764::/48,no-resolve
 IP-CIDR6,2a14:7586:6100::/47,no-resolve
 IP-CIDR6,2a14:7586:6103::/48,no-resolve
 IP-CIDR6,2a14:7586:6104::/47,no-resolve
+IP-CIDR6,2a14:7586:6106::/48,no-resolve
 IP-CIDR6,2a14:7586:6110::/48,no-resolve
 IP-CIDR6,2a14:7586:6300::/44,no-resolve
 IP-CIDR6,2a14:7586:6500::/48,no-resolve
@@ -128138,6 +128180,7 @@ IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
 IP-ASN,132203,no-resolve
+USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -128178,25 +128221,24 @@ USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
-USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,Youku*
-USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
+USER-AGENT,youku*
+USER-AGENT,Himalaya*
+USER-AGENT,MGTV*
+USER-AGENT,baiduyinyue
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
-USER-AGENT,youku*
-USER-AGENT,Himalaya*
-USER-AGENT,MGTV*
+USER-AGENT,Youku*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QYPlayer*
