@@ -1,4 +1,4 @@
-# Generated: 2026-06-21 08:07:11 UTC
+# Generated: 2026-06-22 09:18:45 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -50,6 +50,10 @@ DOMAIN-SUFFIX,apps5.oingo.com
 DOMAIN-SUFFIX,apptrailers.itunes.apple.com
 DOMAIN-SUFFIX,auth.music.apple.com
 DOMAIN-SUFFIX,avail.googleflights.net
+DOMAIN-SUFFIX,azuremigrate.download.prss.microsoft.com
+DOMAIN-SUFFIX,azuremigratetest.download.prss.microsoft.com
+DOMAIN-SUFFIX,azurestackhub.download.prss.microsoft.com
+DOMAIN-SUFFIX,azurestackhubuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,b.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,bag-cdn.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,bag.itunes.apple.com
@@ -57,16 +61,14 @@ DOMAIN-SUFFIX,beacons.gcp.gvt2.com
 DOMAIN-SUFFIX,beacons.gvt2.com
 DOMAIN-SUFFIX,beacons2.gvt2.com
 DOMAIN-SUFFIX,beacons3.gvt2.com
-DOMAIN-SUFFIX,bg.v4.a.dl.ws.microsoft.com
-DOMAIN-SUFFIX,bg4.v4.a.dl.ws.microsoft.com
 DOMAIN-SUFFIX,bj1.api.bing.com
 DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
-DOMAIN-SUFFIX,build.microsoft.com
 DOMAIN-SUFFIX,c.admob.com
 DOMAIN-SUFFIX,c.android.clients.google.com
 DOMAIN-SUFFIX,c.pki.goog
 DOMAIN-SUFFIX,cache-management-prod.google.com
 DOMAIN-SUFFIX,cache.pack.google.com
+DOMAIN-SUFFIX,cbdstest.download.prss.microsoft.com
 DOMAIN-SUFFIX,cdn-cn.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn1.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn2.apple-mapkit.com
@@ -75,7 +77,6 @@ DOMAIN-SUFFIX,cdn-cn4.apple-mapkit.com
 DOMAIN-SUFFIX,cdn.ampproject.org
 DOMAIN-SUFFIX,cdn.apple-mapkit.com
 DOMAIN-SUFFIX,cdn.globalsigncdn.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,cdn.marketplaceimages.windowsphone.com
 DOMAIN-SUFFIX,cdn1.apple-mapkit.com
 DOMAIN-SUFFIX,cdn2.apple-mapkit.com
 DOMAIN-SUFFIX,cdn3.apple-mapkit.com
@@ -113,6 +114,8 @@ DOMAIN-SUFFIX,cn-smp-paymentservices.apple.com
 DOMAIN-SUFFIX,cn.download.nvidia.com
 DOMAIN-SUFFIX,cn.widevine.com
 DOMAIN-SUFFIX,cn.windowssearch.com
+DOMAIN-SUFFIX,collaborate.download.prss.microsoft.com
+DOMAIN-SUFFIX,collaborateppe.download.prss.microsoft.com
 DOMAIN-SUFFIX,communities.apple.com
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN-SUFFIX,configuration.apple.com.akadns.net
@@ -140,7 +143,6 @@ DOMAIN-SUFFIX,dc1.ksn.kaspersky-labs.com
 DOMAIN-SUFFIX,dd-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,dds.dell.com
 DOMAIN-SUFFIX,dejavu.apple.com
-DOMAIN-SUFFIX,devblogs.microsoft.com
 DOMAIN-SUFFIX,developer.microsoft.com
 DOMAIN-SUFFIX,devimages-cdn.apple.com
 DOMAIN-SUFFIX,devstreaming-cdn.apple.com
@@ -169,7 +171,6 @@ DOMAIN-SUFFIX,dnl-16.geo.kaspersky.com
 DOMAIN-SUFFIX,dnl-17.geo.kaspersky.com
 DOMAIN-SUFFIX,dnl-18.geo.kaspersky.com
 DOMAIN-SUFFIX,dnl-19.geo.kaspersky.com
-DOMAIN-SUFFIX,docs.microsoft.com
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,download.developer.apple.com
@@ -178,6 +179,8 @@ DOMAIN-SUFFIX,download.mlcc.google.com
 DOMAIN-SUFFIX,download.tensorflow.google.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,downloaddispatch.itunes.apple.com
+DOMAIN-SUFFIX,dreamspark.download.prss.microsoft.com
+DOMAIN-SUFFIX,dreamsparkuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,ea2cn-dev-outlet.dell.com
 DOMAIN-SUFFIX,ea2cn-prod-outlet.dell.com
 DOMAIN-SUFFIX,ea2cn-staging-outlet.dell.com
@@ -193,7 +196,6 @@ DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,fontfiles.googleapis.com
 DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,fonts.gstatic.com
-DOMAIN-SUFFIX,fs.microsoft.com
 DOMAIN-SUFFIX,fta.dell.com
 DOMAIN-SUFFIX,ftaapj.dell.com
 DOMAIN-SUFFIX,ftaemea.dell.com
@@ -293,6 +295,8 @@ DOMAIN-SUFFIX,is4-ssl.mzstatic.com
 DOMAIN-SUFFIX,is4.mzstatic.com
 DOMAIN-SUFFIX,is5-ssl.mzstatic.com
 DOMAIN-SUFFIX,is5.mzstatic.com
+DOMAIN-SUFFIX,itacademy.download.prss.microsoft.com
+DOMAIN-SUFFIX,itacademyuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,itunesconnect.apple.com
@@ -323,16 +327,25 @@ DOMAIN-SUFFIX,ksn-url-geo.kaspersky-labs.com
 DOMAIN-SUFFIX,ksn-url.geoksn.kaspersky.com
 DOMAIN-SUFFIX,ksn-verdict-geo.kaspersky-labs.com
 DOMAIN-SUFFIX,ksn-verdict.geoksn.kaspersky.com
-DOMAIN-SUFFIX,learn.microsoft.com
+DOMAIN-SUFFIX,lex.download.prss.microsoft.com
+DOMAIN-SUFFIX,lexuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,lv.queniujq.cn
 DOMAIN-SUFFIX,maps.apple.com
+DOMAIN-SUFFIX,mbs.download.prss.microsoft.com
 DOMAIN-SUFFIX,mdr.ksn.kaspersky-labs.com
+DOMAIN-SUFFIX,mensura.cdn-apple.com
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,misc-assets.itunes.apple.com
 DOMAIN-SUFFIX,ml.cdn-apple.com
 DOMAIN-SUFFIX,moocs.unipus.cn
+DOMAIN-SUFFIX,mpnbenefits.download.prss.microsoft.com
+DOMAIN-SUFFIX,mpnbenefitsrtl.download.prss.microsoft.com
+DOMAIN-SUFFIX,mpnbenefitsrtluat.download.prss.microsoft.com
+DOMAIN-SUFFIX,msdn.download.prss.microsoft.com
+DOMAIN-SUFFIX,msdprod-ad.download.prss.microsoft.com
+DOMAIN-SUFFIX,msproduct.download.prss.microsoft.com
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,musicstatus.music.apple.com
 DOMAIN-SUFFIX,mvod.itunes.apple.com
@@ -359,10 +372,14 @@ DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,ocsp.pki.goog
 DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,oemsoc.download.prss.microsoft.com
+DOMAIN-SUFFIX,oemsocuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,officecdn.microsoft.com
+DOMAIN-SUFFIX,officemkt.download.prss.microsoft.com
+DOMAIN-SUFFIX,officemktuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,opencourse.pku.edu.cn
 DOMAIN-SUFFIX,oscdn.apple.com
 DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net
+DOMAIN-SUFFIX,osrelease.download.prss.microsoft.com
 DOMAIN-SUFFIX,osxapps.itunes.apple.com
 DOMAIN-SUFFIX,osxapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,p.cdn.persaas.dell.com
@@ -428,8 +445,7 @@ DOMAIN-SUFFIX,redirector.offline-maps.gvt1.com
 DOMAIN-SUFFIX,redirector.snap.gvt1.com
 DOMAIN-SUFFIX,redirector.xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,refresh-bkg.activation-v2.kaspersky.com
-DOMAIN-SUFFIX,res-1.cdn.office.net
-DOMAIN-SUFFIX,res.cdn.office.net
+DOMAIN-SUFFIX,rsm.download.prss.microsoft.com
 DOMAIN-SUFFIX,s.mzstatic.com
 DOMAIN-SUFFIX,s00.upd.kaspersky.com
 DOMAIN-SUFFIX,s01.upd.kaspersky.com
@@ -495,6 +511,8 @@ DOMAIN-SUFFIX,store.apple.com.edgekey.net
 DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,store.storeimages.apple.com.akadns.net
 DOMAIN-SUFFIX,store.storeimages.cdn-apple.com
+DOMAIN-SUFFIX,storecorefulfillment.download.prss.microsoft.com
+DOMAIN-SUFFIX,storeedge.microsoft.com
 DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
 DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,study.163.com
@@ -502,6 +520,7 @@ DOMAIN-SUFFIX,su.itunes.apple.com
 DOMAIN-SUFFIX,support-china.apple-support.akadns.net
 DOMAIN-SUFFIX,support.apple.com
 DOMAIN-SUFFIX,supportassist.dell.com
+DOMAIN-SUFFIX,surface.download.prss.microsoft.com
 DOMAIN-SUFFIX,surface.downloads.prss.microsoft.com
 DOMAIN-SUFFIX,swallow-apple-com.v.aaplimg.com
 DOMAIN-SUFFIX,swallow.apple.com
@@ -534,6 +553,8 @@ DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-SUFFIX,upp.itunes.apple.com
 DOMAIN-SUFFIX,valid.apple.com
 DOMAIN-SUFFIX,valid.origin-apple.com.akadns.net
+DOMAIN-SUFFIX,vlportal.download.prss.microsoft.com
+DOMAIN-SUFFIX,volic.download.prss.microsoft.com
 DOMAIN-SUFFIX,vscode.download.prss.microsoft.com
 DOMAIN-SUFFIX,vz.download.prss.microsoft.com
 DOMAIN-SUFFIX,wear.googleapis.com
@@ -542,8 +563,7 @@ DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
 DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,weather-map2.apple.com
 DOMAIN-SUFFIX,weatherkit.apple.com
-DOMAIN-SUFFIX,wscont1.apps.microsoft.com
-DOMAIN-SUFFIX,wscont2.apps.microsoft.com
+DOMAIN-SUFFIX,windbg.download.prss.microsoft.com
 DOMAIN-SUFFIX,www-csb.dell.com
 DOMAIN-SUFFIX,www-google-analytics.l.google.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
@@ -554,7 +574,6 @@ DOMAIN-SUFFIX,www.dell.com
 DOMAIN-SUFFIX,www.destinationurl.com
 DOMAIN-SUFFIX,www.entrust.cn
 DOMAIN-SUFFIX,www.gstatic.com
-DOMAIN-SUFFIX,www.microsoft.com
 DOMAIN-SUFFIX,www.pxcc.com
 DOMAIN-SUFFIX,www.recaptcha-cn.net
 DOMAIN-SUFFIX,www.recaptcha.net
@@ -14372,10 +14391,6 @@ DOMAIN-SUFFIX,azure-wave.com
 DOMAIN-SUFFIX,azure.cc
 DOMAIN-SUFFIX,azureflame.cloud
 DOMAIN-SUFFIX,azureflying.com
-DOMAIN-SUFFIX,azuremigrate.download.prss.microsoft.com
-DOMAIN-SUFFIX,azuremigratetest.download.prss.microsoft.com
-DOMAIN-SUFFIX,azurestackhub.download.prss.microsoft.com
-DOMAIN-SUFFIX,azurestackhubuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,azuretouch.net
 DOMAIN-SUFFIX,azurew.com
 DOMAIN-SUFFIX,azureyun.com
@@ -19707,7 +19722,6 @@ DOMAIN-SUFFIX,cbd263.com
 DOMAIN-SUFFIX,cbdcn.com
 DOMAIN-SUFFIX,cbdd9912fb913294.com
 DOMAIN-SUFFIX,cbdio.com
-DOMAIN-SUFFIX,cbdstest.download.prss.microsoft.com
 DOMAIN-SUFFIX,cbdz13.com
 DOMAIN-SUFFIX,cbe21.com
 DOMAIN-SUFFIX,cbea.com
@@ -25381,8 +25395,6 @@ DOMAIN-SUFFIX,coli688.com
 DOMAIN-SUFFIX,colineapp.com
 DOMAIN-SUFFIX,colinker.com
 DOMAIN-SUFFIX,colipu.com
-DOMAIN-SUFFIX,collaborate.download.prss.microsoft.com
-DOMAIN-SUFFIX,collaborateppe.download.prss.microsoft.com
 DOMAIN-SUFFIX,collect-med.com
 DOMAIN-SUFFIX,collect-v6-51.la
 DOMAIN-SUFFIX,college-ing.com
@@ -31081,8 +31093,6 @@ DOMAIN-SUFFIX,dreamo100.com
 DOMAIN-SUFFIX,dreampiggy.com
 DOMAIN-SUFFIX,dreams-travel.com
 DOMAIN-SUFFIX,dreamshell.cc
-DOMAIN-SUFFIX,dreamspark.download.prss.microsoft.com
-DOMAIN-SUFFIX,dreamsparkuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,drearry.com
 DOMAIN-SUFFIX,dreawer.com
 DOMAIN-SUFFIX,drebella.com
@@ -31643,6 +31653,7 @@ DOMAIN-SUFFIX,dxlfile.com
 DOMAIN-SUFFIX,dxm-cdn.com
 DOMAIN-SUFFIX,dxm-int.com
 DOMAIN-SUFFIX,dxm-yibai.com
+DOMAIN-SUFFIX,dxmbaoxian.com
 DOMAIN-SUFFIX,dxmjinr.com
 DOMAIN-SUFFIX,dxmjuhe.com
 DOMAIN-SUFFIX,dxmlcf.com
@@ -52632,8 +52643,6 @@ DOMAIN-SUFFIX,it918.com
 DOMAIN-SUFFIX,it985.com
 DOMAIN-SUFFIX,it9g.com
 DOMAIN-SUFFIX,itab.link
-DOMAIN-SUFFIX,itacademy.download.prss.microsoft.com
-DOMAIN-SUFFIX,itacademyuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,itaconicacid.com
 DOMAIN-SUFFIX,itaic.org
 DOMAIN-SUFFIX,itailai.com
@@ -61341,7 +61350,6 @@ DOMAIN-SUFFIX,lewenqu.com
 DOMAIN-SUFFIX,lewenss.com
 DOMAIN-SUFFIX,lewenxsw.com
 DOMAIN-SUFFIX,lewifi.com
-DOMAIN-SUFFIX,lex.download.prss.microsoft.com
 DOMAIN-SUFFIX,lexar.com
 DOMAIN-SUFFIX,lexed.org
 DOMAIN-SUFFIX,lexiaigame.com
@@ -61356,7 +61364,6 @@ DOMAIN-SUFFIX,lexin.com
 DOMAIN-SUFFIX,lexin001.com
 DOMAIN-SUFFIX,lexinchina.com
 DOMAIN-SUFFIX,lexoncloud.net
-DOMAIN-SUFFIX,lexuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,lexue-cloud.com
 DOMAIN-SUFFIX,lexue.com
 DOMAIN-SUFFIX,lexueying.com
@@ -65280,7 +65287,6 @@ DOMAIN-SUFFIX,mblu.com
 DOMAIN-SUFFIX,mblyun.com
 DOMAIN-SUFFIX,mbo-china.com
 DOMAIN-SUFFIX,mbokee.com
-DOMAIN-SUFFIX,mbs.download.prss.microsoft.com
 DOMAIN-SUFFIX,mbsifu.com
 DOMAIN-SUFFIX,mbti16cc.com
 DOMAIN-SUFFIX,mbtools.work
@@ -65354,6 +65360,7 @@ DOMAIN-SUFFIX,mcool.com
 DOMAIN-SUFFIX,mcpemaster.com
 DOMAIN-SUFFIX,mcpfks.com
 DOMAIN-SUFFIX,mcpmaid.com
+DOMAIN-SUFFIX,mcpworld.com
 DOMAIN-SUFFIX,mcq93.app
 DOMAIN-SUFFIX,mcqy.net
 DOMAIN-SUFFIX,mcsafebox.com
@@ -67559,9 +67566,6 @@ DOMAIN-SUFFIX,mphdx.com
 DOMAIN-SUFFIX,mpiano.com
 DOMAIN-SUFFIX,mplus.tech
 DOMAIN-SUFFIX,mpmc-china.com
-DOMAIN-SUFFIX,mpnbenefits.download.prss.microsoft.com
-DOMAIN-SUFFIX,mpnbenefitsrtl.download.prss.microsoft.com
-DOMAIN-SUFFIX,mpnbenefitsrtluat.download.prss.microsoft.com
 DOMAIN-SUFFIX,mpoa.vip
 DOMAIN-SUFFIX,mpopkart.com
 DOMAIN-SUFFIX,mps.live
@@ -67643,13 +67647,11 @@ DOMAIN-SUFFIX,mscodecloud.com
 DOMAIN-SUFFIX,msd-facing.com
 DOMAIN-SUFFIX,msddp.com
 DOMAIN-SUFFIX,msdkpass.com
-DOMAIN-SUFFIX,msdn.download.prss.microsoft.com
 DOMAIN-SUFFIX,msdn.hk
 DOMAIN-SUFFIX,msdnwogaosuni.com
 DOMAIN-SUFFIX,msdnxitong.com
 DOMAIN-SUFFIX,msdpmarathon.com
 DOMAIN-SUFFIX,msdprc.com
-DOMAIN-SUFFIX,msdprod-ad.download.prss.microsoft.com
 DOMAIN-SUFFIX,msfpay.com
 DOMAIN-SUFFIX,msftonlinelab.com
 DOMAIN-SUFFIX,msg.work
@@ -67684,7 +67686,6 @@ DOMAIN-SUFFIX,msolok.com
 DOMAIN-SUFFIX,mspace.cc
 DOMAIN-SUFFIX,mspacecd.com
 DOMAIN-SUFFIX,mspharm.com
-DOMAIN-SUFFIX,msproduct.download.prss.microsoft.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,mst-jc.com
 DOMAIN-SUFFIX,mstatik.com
@@ -68322,6 +68323,7 @@ DOMAIN-SUFFIX,myspain.org
 DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,mysql360.com
 DOMAIN-SUFFIX,mysqlab.net
+DOMAIN-SUFFIX,myssl-uri.com
 DOMAIN-SUFFIX,myssl.com
 DOMAIN-SUFFIX,mystarch.com
 DOMAIN-SUFFIX,mysteel.com
@@ -71368,7 +71370,6 @@ DOMAIN-SUFFIX,oemhouse.com
 DOMAIN-SUFFIX,oemnew.com
 DOMAIN-SUFFIX,oempromo.com
 DOMAIN-SUFFIX,oemresource.com
-DOMAIN-SUFFIX,oemsocuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,oemxitong.com
 DOMAIN-SUFFIX,oeob.net
@@ -71393,8 +71394,6 @@ DOMAIN-SUFFIX,officeaid02.com
 DOMAIN-SUFFIX,officebai.com
 DOMAIN-SUFFIX,officebay.net
 DOMAIN-SUFFIX,officectrl.com
-DOMAIN-SUFFIX,officemkt.download.prss.microsoft.com
-DOMAIN-SUFFIX,officemktuat.download.prss.microsoft.com
 DOMAIN-SUFFIX,officese.com
 DOMAIN-SUFFIX,officesoftcn.com
 DOMAIN-SUFFIX,officeweb365.com
@@ -72079,7 +72078,6 @@ DOMAIN-SUFFIX,ospod.com
 DOMAIN-SUFFIX,osportsmedia.com
 DOMAIN-SUFFIX,ospp.com
 DOMAIN-SUFFIX,osredm.com
-DOMAIN-SUFFIX,osrelease.download.prss.microsoft.com
 DOMAIN-SUFFIX,oss-cn-beijing-aliyuncs.com
 DOMAIN-SUFFIX,oss.link
 DOMAIN-SUFFIX,osslan.com
@@ -73070,6 +73068,7 @@ DOMAIN-SUFFIX,perfcode.com
 DOMAIN-SUFFIX,perfect-input.com
 DOMAIN-SUFFIX,perfect99.com
 DOMAIN-SUFFIX,perfectdiary.com
+DOMAIN-SUFFIX,perfectlingo.com
 DOMAIN-SUFFIX,perfecttradinghk.com
 DOMAIN-SUFFIX,perfectwatchen.com
 DOMAIN-SUFFIX,perfertw.com
@@ -74500,6 +74499,7 @@ DOMAIN-SUFFIX,pw-partners.com
 DOMAIN-SUFFIX,pw1999.com
 DOMAIN-SUFFIX,pw88.com
 DOMAIN-SUFFIX,pwand.com
+DOMAIN-SUFFIX,pwcinema.com
 DOMAIN-SUFFIX,pwdding.icu
 DOMAIN-SUFFIX,pwithe.com
 DOMAIN-SUFFIX,pwjptdg.xyz
@@ -78557,7 +78557,6 @@ DOMAIN-SUFFIX,rsjytx.com
 DOMAIN-SUFFIX,rskjx.com
 DOMAIN-SUFFIX,rsl.cc
 DOMAIN-SUFFIX,rslg-china.com
-DOMAIN-SUFFIX,rsm.download.prss.microsoft.com
 DOMAIN-SUFFIX,rsnschina.com
 DOMAIN-SUFFIX,rsplcdcs.com
 DOMAIN-SUFFIX,rspwj.com
@@ -85581,8 +85580,6 @@ DOMAIN-SUFFIX,stor-helper.com
 DOMAIN-SUFFIX,storcezon.com
 DOMAIN-SUFFIX,store12.com
 DOMAIN-SUFFIX,storeapi.net
-DOMAIN-SUFFIX,storecorefulfillment.download.prss.microsoft.com
-DOMAIN-SUFFIX,storeedge.microsoft.com
 DOMAIN-SUFFIX,storkapp.me
 DOMAIN-SUFFIX,stormorai.com
 DOMAIN-SUFFIX,story520.com
@@ -86166,7 +86163,6 @@ DOMAIN-SUFFIX,suqnn.com
 DOMAIN-SUFFIX,suqun-group.com
 DOMAIN-SUFFIX,surely.cool
 DOMAIN-SUFFIX,surerp.com
-DOMAIN-SUFFIX,surface.download.prss.microsoft.com
 DOMAIN-SUFFIX,surfacetreatmentgroup.com
 DOMAIN-SUFFIX,surfacetreatmenttechnology.com
 DOMAIN-SUFFIX,surfcg.com
@@ -91110,6 +91106,7 @@ DOMAIN-SUFFIX,trust-one.com
 DOMAIN-SUFFIX,trust400.com
 DOMAIN-SUFFIX,trusta-lawyer.com
 DOMAIN-SUFFIX,trustasia.com
+DOMAIN-SUFFIX,trustasia.net
 DOMAIN-SUFFIX,trustcn.com
 DOMAIN-SUFFIX,trustdecision.com
 DOMAIN-SUFFIX,trustedsign.com
@@ -93835,7 +93832,6 @@ DOMAIN-SUFFIX,vlinke.com
 DOMAIN-SUFFIX,vlion.mobi
 DOMAIN-SUFFIX,vlong.tv
 DOMAIN-SUFFIX,vlongbiz.com
-DOMAIN-SUFFIX,vlportal.download.prss.microsoft.com
 DOMAIN-SUFFIX,vlrzgf.sbs
 DOMAIN-SUFFIX,vlss.com
 DOMAIN-SUFFIX,vlssu.com
@@ -94018,7 +94014,6 @@ DOMAIN-SUFFIX,volcwaf.com
 DOMAIN-SUFFIX,volcwaf001.com
 DOMAIN-SUFFIX,voldp.com
 DOMAIN-SUFFIX,voleai.com
-DOMAIN-SUFFIX,volic.download.prss.microsoft.com
 DOMAIN-SUFFIX,volit.com
 DOMAIN-SUFFIX,volkswagen-anhui.com
 DOMAIN-SUFFIX,volleyballchina.com
@@ -96613,7 +96608,6 @@ DOMAIN-SUFFIX,wincomn.com
 DOMAIN-SUFFIX,wind.ink
 DOMAIN-SUFFIX,wind.moe
 DOMAIN-SUFFIX,windaka.com
-DOMAIN-SUFFIX,windbg.download.prss.microsoft.com
 DOMAIN-SUFFIX,windcoder.com
 DOMAIN-SUFFIX,windesign.cc
 DOMAIN-SUFFIX,windeyenergy.com
@@ -120872,10 +120866,10 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,qiyi
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.1.8.0/21,no-resolve
 IP-CIDR,1.116.0.0/14,no-resolve
@@ -121819,6 +121813,8 @@ IP-CIDR,154.19.86.0/23,no-resolve
 IP-CIDR,154.19.88.0/21,no-resolve
 IP-CIDR,154.19.96.0/19,no-resolve
 IP-CIDR,154.197.128.0/17,no-resolve
+IP-CIDR,154.203.204.0/23,no-resolve
+IP-CIDR,154.203.244.0/23,no-resolve
 IP-CIDR,154.209.251.0/24,no-resolve
 IP-CIDR,154.36.92.0/23,no-resolve
 IP-CIDR,154.72.42.0/24,no-resolve
@@ -123801,7 +123797,7 @@ IP-CIDR,82.108.198.0/23,no-resolve
 IP-CIDR,82.109.96.0/23,no-resolve
 IP-CIDR,82.110.234.0/23,no-resolve
 IP-CIDR,82.110.98.0/24,no-resolve
-IP-CIDR,82.22.31.0/24,no-resolve
+IP-CIDR,82.22.30.0/23,no-resolve
 IP-CIDR,82.38.92.0/24,no-resolve
 IP-CIDR,85.12.7.192/28,no-resolve
 IP-CIDR,85.184.245.0/24,no-resolve
@@ -126325,6 +126321,7 @@ IP-CIDR6,2600:1f01:4814::/47,no-resolve
 IP-CIDR6,2602:2a9:d10::/44,no-resolve
 IP-CIDR6,2602:814:f006::/48,no-resolve
 IP-CIDR6,2602:f92a:a460::/48,no-resolve
+IP-CIDR6,2602:f92a:a462::/48,no-resolve
 IP-CIDR6,2602:f92a:a468::/48,no-resolve
 IP-CIDR6,2602:f92a:a46d::/48,no-resolve
 IP-CIDR6,2602:f92a:a47d::/48,no-resolve
@@ -127734,9 +127731,8 @@ IP-CIDR6,2a0f:1cc5:1034::/47,no-resolve
 IP-CIDR6,2a0f:1cc5:1041::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:110::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:130::/44,no-resolve
-IP-CIDR6,2a0f:1cc5:140::/43,no-resolve
+IP-CIDR6,2a0f:1cc5:140::/42,no-resolve
 IP-CIDR6,2a0f:1cc5:14::/46,no-resolve
-IP-CIDR6,2a0f:1cc5:170::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:1c00::/47,no-resolve
 IP-CIDR6,2a0f:1cc5:1c02::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:1c20::/48,no-resolve
@@ -127892,9 +127888,7 @@ IP-CIDR6,2a14:7580:fffa::/48,no-resolve
 IP-CIDR6,2a14:7581:30b6::/48,no-resolve
 IP-CIDR6,2a14:7581:ffb::/48,no-resolve
 IP-CIDR6,2a14:7583:f220::/43,no-resolve
-IP-CIDR6,2a14:7583:f244::/48,no-resolve
-IP-CIDR6,2a14:7583:f248::/48,no-resolve
-IP-CIDR6,2a14:7583:f260::/43,no-resolve
+IP-CIDR6,2a14:7583:f240::/42,no-resolve
 IP-CIDR6,2a14:7583:f300::/46,no-resolve
 IP-CIDR6,2a14:7583:f304::/47,no-resolve
 IP-CIDR6,2a14:7583:f307::/48,no-resolve
@@ -127915,6 +127909,7 @@ IP-CIDR6,2a14:7586:6103::/48,no-resolve
 IP-CIDR6,2a14:7586:6104::/47,no-resolve
 IP-CIDR6,2a14:7586:6106::/48,no-resolve
 IP-CIDR6,2a14:7586:6110::/48,no-resolve
+IP-CIDR6,2a14:7586:6113::/48,no-resolve
 IP-CIDR6,2a14:7586:6300::/44,no-resolve
 IP-CIDR6,2a14:7586:6500::/48,no-resolve
 IP-CIDR6,2a14:7dc0:506::/48,no-resolve
@@ -127959,7 +127954,6 @@ IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
 IP-ASN,132203,no-resolve
-USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -127996,34 +127990,35 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
+USER-AGENT,MGTV*
 USER-AGENT,MOO*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
+USER-AGENT,MiguVideo*
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
 USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,MGTV*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,Youku*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
+USER-AGENT,iQiYi*
+USER-AGENT,iQiyi*
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.bilibili.app.blue
 PROCESS-NAME,com.bilibili.app.in
