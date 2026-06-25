@@ -1,4 +1,4 @@
-# Generated: 2026-06-24 06:54:53 UTC
+# Generated: 2026-06-25 06:54:36 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -112401,63 +112401,6 @@ DOMAIN-SUFFIX,zzzyy.com
 DOMAIN-SUFFIX,zzzyyy.com
 DOMAIN-SUFFIX,zzzzaaaa.com
 DOMAIN-SUFFIX,zzzzzz.me
-DOMAIN-SUFFIX,027965888.net
-DOMAIN-SUFFIX,0549.xin
-DOMAIN-SUFFIX,0818tuangou.com
-DOMAIN-SUFFIX,08cms.com
-DOMAIN-SUFFIX,0duxs.com
-DOMAIN-SUFFIX,0gouche.com
-DOMAIN-SUFFIX,1cnmedia.com
-DOMAIN-SUFFIX,2k27cny7hx.cfd
-DOMAIN-SUFFIX,360wyw.com
-DOMAIN-SUFFIX,37yzy.com
-DOMAIN-SUFFIX,815.pub
-DOMAIN-SUFFIX,928xpj.com
-DOMAIN-SUFFIX,aichehome.com
-DOMAIN-SUFFIX,aiwanba.net
-DOMAIN-SUFFIX,alili.tech
-DOMAIN-SUFFIX,anxin168.com
-DOMAIN-SUFFIX,avgnatii.com
-DOMAIN-SUFFIX,bosenrui.com
-DOMAIN-SUFFIX,chacheku.com
-DOMAIN-SUFFIX,crysound.com
-DOMAIN-SUFFIX,delonggou.com
-DOMAIN-SUFFIX,ec51.com
-DOMAIN-SUFFIX,epinhoo.com
-DOMAIN-SUFFIX,fageka.com
-DOMAIN-SUFFIX,gdfggvfsd.asia
-DOMAIN-SUFFIX,h5war.com
-DOMAIN-SUFFIX,haolongsci.com
-DOMAIN-SUFFIX,hnlantian.com
-DOMAIN-SUFFIX,huagujs.com
-DOMAIN-SUFFIX,igoodgame.com
-DOMAIN-SUFFIX,jijidi.com
-DOMAIN-SUFFIX,jsklcy.com
-DOMAIN-SUFFIX,juyanwenjuan.com
-DOMAIN-SUFFIX,kangbaifoundation.com
-DOMAIN-SUFFIX,kangq.com
-DOMAIN-SUFFIX,liuzongyang.com
-DOMAIN-SUFFIX,liyu8.com
-DOMAIN-SUFFIX,miao-lang.com
-DOMAIN-SUFFIX,mlhld.com
-DOMAIN-SUFFIX,ouqo05161luj.com
-DOMAIN-SUFFIX,pj57.com
-DOMAIN-SUFFIX,qianshanren.com
-DOMAIN-SUFFIX,quanriai.com
-DOMAIN-SUFFIX,qyx888.com
-DOMAIN-SUFFIX,seis-jun.xyz
-DOMAIN-SUFFIX,shangbaolai.com
-DOMAIN-SUFFIX,shanlinshengwu.com
-DOMAIN-SUFFIX,surfacetreatmenttechnology.com
-DOMAIN-SUFFIX,tiezis.com
-DOMAIN-SUFFIX,ulixirglobal.com
-DOMAIN-SUFFIX,uwparking.com
-DOMAIN-SUFFIX,wangjun.art
-DOMAIN-SUFFIX,weizhoudaoly.com
-DOMAIN-SUFFIX,xcljs.com
-DOMAIN-SUFFIX,yidouzhaofang.com
-DOMAIN-SUFFIX,zhuinw.com
-DOMAIN-SUFFIX,zjgqt.org
 DOMAIN-SUFFIX,chaipip.com
 DOMAIN-SUFFIX,chinaplay.store
 DOMAIN-SUFFIX,hrtsea.com
