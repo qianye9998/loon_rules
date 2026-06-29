@@ -1,4 +1,4 @@
-# Generated: 2026-06-28 07:08:20 UTC
+# Generated: 2026-06-29 08:22:58 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -59354,7 +59354,6 @@ DOMAIN-SUFFIX,kscdns.com
 DOMAIN-SUFFIX,kschuangku.com
 DOMAIN-SUFFIX,kscloudapi.com
 DOMAIN-SUFFIX,ksco.cc
-DOMAIN-SUFFIX,kscord.com
 DOMAIN-SUFFIX,ksdedu.com
 DOMAIN-SUFFIX,ksdhgy.com
 DOMAIN-SUFFIX,ksecit.com
