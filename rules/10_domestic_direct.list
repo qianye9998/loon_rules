@@ -1,4 +1,4 @@
-# Generated: 2026-07-21 06:03:58 UTC
+# Generated: 2026-07-22 06:02:36 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -20074,6 +20074,7 @@ DOMAIN-SUFFIX,cd-wx.net
 DOMAIN-SUFFIX,cd-zc.com
 DOMAIN-SUFFIX,cd00c44f211031.beer
 DOMAIN-SUFFIX,cd120.com
+DOMAIN-SUFFIX,cd120.info
 DOMAIN-SUFFIX,cd12371.com
 DOMAIN-SUFFIX,cd1958.com
 DOMAIN-SUFFIX,cd20.net
@@ -66893,6 +66894,7 @@ DOMAIN-SUFFIX,moe233.org
 DOMAIN-SUFFIX,moe321.com
 DOMAIN-SUFFIX,moeclub.org
 DOMAIN-SUFFIX,moedot.net
+DOMAIN-SUFFIX,moedu.com
 DOMAIN-SUFFIX,moeelf.com
 DOMAIN-SUFFIX,moefactory.com
 DOMAIN-SUFFIX,moefantasy.com
@@ -90841,6 +90843,7 @@ DOMAIN-SUFFIX,tsingoofoods.com
 DOMAIN-SUFFIX,tsingpost.com
 DOMAIN-SUFFIX,tsingshang.com
 DOMAIN-SUFFIX,tsingtek.com
+DOMAIN-SUFFIX,tsingtengms.com
 DOMAIN-SUFFIX,tsingtoo.com
 DOMAIN-SUFFIX,tsingtuo.com
 DOMAIN-SUFFIX,tsingyangroup.com
@@ -98457,6 +98460,7 @@ DOMAIN-SUFFIX,xcxwo.com
 DOMAIN-SUFFIX,xcxymw.com
 DOMAIN-SUFFIX,xcxzww.com
 DOMAIN-SUFFIX,xcyg.net
+DOMAIN-SUFFIX,xcz.im
 DOMAIN-SUFFIX,xczhmzb.com
 DOMAIN-SUFFIX,xczhsh.com
 DOMAIN-SUFFIX,xczim.com
@@ -121283,7 +121287,6 @@ IP-CIDR,140.248.61.47/32,no-resolve
 IP-CIDR,140.248.62.47/32,no-resolve
 IP-CIDR,140.248.63.47/32,no-resolve
 IP-CIDR,141.11.219.0/24,no-resolve
-IP-CIDR,141.11.51.0/24,no-resolve
 IP-CIDR,143.191.188.0/22,no-resolve
 IP-CIDR,143.191.64.0/19,no-resolve
 IP-CIDR,143.191.96.0/21,no-resolve
@@ -121349,6 +121352,7 @@ IP-CIDR,150.242.152.0/21,no-resolve
 IP-CIDR,150.242.212.0/22,no-resolve
 IP-CIDR,150.242.224.0/22,no-resolve
 IP-CIDR,151.243.189.0/24,no-resolve
+IP-CIDR,151.244.135.0/24,no-resolve
 IP-CIDR,151.246.184.0/24,no-resolve
 IP-CIDR,151.247.148.0/23,no-resolve
 IP-CIDR,151.249.90.0/23,no-resolve
@@ -123125,6 +123129,7 @@ IP-CIDR,43.252.224.0/22,no-resolve
 IP-CIDR,43.254.128.0/22,no-resolve
 IP-CIDR,43.88.0.0/14,no-resolve
 IP-CIDR,43.96.0.0/11,no-resolve
+IP-CIDR,44.30.131.0/24,no-resolve
 IP-CIDR,44.30.164.0/24,no-resolve
 IP-CIDR,44.30.169.0/24,no-resolve
 IP-CIDR,44.30.171.0/24,no-resolve
@@ -123195,7 +123200,6 @@ IP-CIDR,45.82.241.0/24,no-resolve
 IP-CIDR,45.87.53.0/24,no-resolve
 IP-CIDR,45.87.54.0/24,no-resolve
 IP-CIDR,45.9.11.0/24,no-resolve
-IP-CIDR,45.91.139.0/24,no-resolve
 IP-CIDR,46.102.251.0/25,no-resolve
 IP-CIDR,46.151.180.0/23,no-resolve
 IP-CIDR,46.151.182.0/24,no-resolve
@@ -123263,7 +123267,6 @@ IP-CIDR,59.153.60.0/22,no-resolve
 IP-CIDR,59.191.240.0/20,no-resolve
 IP-CIDR,60.254.173.38/32,no-resolve
 IP-CIDR,61.114.80.0/20,no-resolve
-IP-CIDR,61.18.64.0/20,no-resolve
 IP-CIDR,61.216.177.73/32,no-resolve
 IP-CIDR,61.244.22.4/32,no-resolve
 IP-CIDR,61.28.212.0/24,no-resolve
@@ -127301,9 +127304,8 @@ IP-CIDR6,2a0f:1cc5:1041::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:110::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:130::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:1310::/44,no-resolve
-IP-CIDR6,2a0f:1cc5:140::/43,no-resolve
+IP-CIDR6,2a0f:1cc5:140::/42,no-resolve
 IP-CIDR6,2a0f:1cc5:14::/46,no-resolve
-IP-CIDR6,2a0f:1cc5:160::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:1901::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:1902::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:1c00::/47,no-resolve
@@ -127572,7 +127574,6 @@ USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -127582,7 +127583,6 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
@@ -127610,6 +127610,7 @@ USER-AGENT,QIYI*
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
 USER-AGENT,QYPlayer*
+USER-AGENT,Youku*
 USER-AGENT,bilibili*
 USER-AGENT,iQiYi*
 USER-AGENT,iQiyi*
@@ -127617,6 +127618,8 @@ USER-AGENT,youku*
 USER-AGENT,Himalaya*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,MiguVideo*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT,NeteaseMusic*
 USER-AGENT,baiduyinyue
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
@@ -127625,7 +127628,6 @@ USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
-USER-AGENT,Youku*
 USER-AGENT,iQIYI*
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.bilibili.app.blue
