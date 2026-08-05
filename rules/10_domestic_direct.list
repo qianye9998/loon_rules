@@ -1,4 +1,4 @@
-# Generated: 2026-08-04 06:01:49 UTC
+# Generated: 2026-08-05 05:52:47 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -550,6 +550,8 @@ DOMAIN-SUFFIX,time.amazonaws.cn
 DOMAIN-SUFFIX,time.izatcloud.net
 DOMAIN-SUFFIX,time.xtracloud.net
 DOMAIN-SUFFIX,tj-pod1-smp-device.apple.com
+DOMAIN-SUFFIX,tj-pod2-smp-device.apple.com
+DOMAIN-SUFFIX,tj-pod3-smp-device.apple.com
 DOMAIN-SUFFIX,tools.google.com
 DOMAIN-SUFFIX,tp.louisvuitton.com
 DOMAIN-SUFFIX,universal-activity-service.itunes.apple.com
