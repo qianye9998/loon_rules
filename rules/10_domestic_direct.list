@@ -1,4 +1,4 @@
-# Generated: 2026-08-20 03:55:15 UTC
+# Generated: 2026-08-21 03:57:10 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -111452,35 +111452,6 @@ DOMAIN-SUFFIX,zzzyy.com
 DOMAIN-SUFFIX,zzzyyy.com
 DOMAIN-SUFFIX,zzzzaaaa.com
 DOMAIN-SUFFIX,zzzzzz.me
-DOMAIN-SUFFIX,afcs.dell.com
-DOMAIN-SUFFIX,clientperipherals.dell.com
-DOMAIN-SUFFIX,customization-cdn.dell.com
-DOMAIN-SUFFIX,dds.dell.com
-DOMAIN-SUFFIX,dl.dell.com
-DOMAIN-SUFFIX,ea2cn-dev-outlet.dell.com
-DOMAIN-SUFFIX,ea2cn-prod-outlet.dell.com
-DOMAIN-SUFFIX,ea2cn-staging-outlet.dell.com
-DOMAIN-SUFFIX,emoi-cncdn.bing.com
-DOMAIN-SUFFIX,fcs.dell.com
-DOMAIN-SUFFIX,fta.dell.com
-DOMAIN-SUFFIX,ftaapj.dell.com
-DOMAIN-SUFFIX,ftaemea.dell.com
-DOMAIN-SUFFIX,ftasitapj.dell.com
-DOMAIN-SUFFIX,gbxgateway-dev.dell.com
-DOMAIN-SUFFIX,gbxgateway.dell.com
-DOMAIN-SUFFIX,i.dell.com
-DOMAIN-SUFFIX,nexus.dell.com
-DOMAIN-SUFFIX,p.cdn.persaas.dell.com
-DOMAIN-SUFFIX,scene7-cdn.dell.com
-DOMAIN-SUFFIX,si.cdn.dell.com
-DOMAIN-SUFFIX,sm.dell.com
-DOMAIN-SUFFIX,snp.cdn.dell.com
-DOMAIN-SUFFIX,snpi.dell.com
-DOMAIN-SUFFIX,supportassist.dell.com
-DOMAIN-SUFFIX,tp.louisvuitton.com
-DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
-DOMAIN-SUFFIX,www-csb.dell.com
-DOMAIN-SUFFIX,www.dell.com
 DOMAIN-SUFFIX,chaipip.com
 DOMAIN-SUFFIX,chinaplay.store
 DOMAIN-SUFFIX,hrtsea.com
