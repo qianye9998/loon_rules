@@ -1,4 +1,4 @@
-# Generated: 2026-08-21 03:57:10 UTC
+# Generated: 2026-08-22 03:52:24 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -120619,7 +120619,7 @@ IP-CIDR,140.248.60.47/32,no-resolve
 IP-CIDR,140.248.61.47/32,no-resolve
 IP-CIDR,140.248.62.47/32,no-resolve
 IP-CIDR,140.248.63.47/32,no-resolve
-IP-CIDR,141.11.50.0/24,no-resolve
+IP-CIDR,141.11.50.0/23,no-resolve
 IP-CIDR,143.191.188.0/22,no-resolve
 IP-CIDR,143.191.64.0/19,no-resolve
 IP-CIDR,143.191.96.0/21,no-resolve
@@ -120703,7 +120703,6 @@ IP-CIDR,154.19.96.0/19,no-resolve
 IP-CIDR,154.197.128.0/17,no-resolve
 IP-CIDR,154.209.251.0/24,no-resolve
 IP-CIDR,154.36.92.0/23,no-resolve
-IP-CIDR,154.72.42.0/24,no-resolve
 IP-CIDR,154.72.44.0/24,no-resolve
 IP-CIDR,154.72.47.0/24,no-resolve
 IP-CIDR,154.8.48.0/20,no-resolve
@@ -120844,6 +120843,7 @@ IP-CIDR,163.171.253.0/24,no-resolve
 IP-CIDR,163.171.254.0/24,no-resolve
 IP-CIDR,163.171.90.0/23,no-resolve
 IP-CIDR,163.181.0.0/16,no-resolve
+IP-CIDR,163.223.72.0/23,no-resolve
 IP-CIDR,163.227.40.0/23,no-resolve
 IP-CIDR,163.53.220.0/22,no-resolve
 IP-CIDR,163.53.40.0/21,no-resolve
@@ -120861,6 +120861,7 @@ IP-CIDR,166.0.100.0/23,no-resolve
 IP-CIDR,166.0.97.0/24,no-resolve
 IP-CIDR,166.1.139.0/24,no-resolve
 IP-CIDR,166.1.218.0/24,no-resolve
+IP-CIDR,166.1.246.0/23,no-resolve
 IP-CIDR,166.118.227.88/32,no-resolve
 IP-CIDR,167.167.208.0/22,no-resolve
 IP-CIDR,167.167.212.0/23,no-resolve
@@ -122503,6 +122504,7 @@ IP-CIDR,45.81.34.0/24,no-resolve
 IP-CIDR,45.82.241.0/24,no-resolve
 IP-CIDR,45.87.53.0/24,no-resolve
 IP-CIDR,45.87.54.0/24,no-resolve
+IP-CIDR,45.91.139.0/24,no-resolve
 IP-CIDR,46.102.251.0/25,no-resolve
 IP-CIDR,46.151.180.0/23,no-resolve
 IP-CIDR,46.151.182.0/24,no-resolve
@@ -126622,7 +126624,6 @@ IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
 IP-ASN,132203,no-resolve
-USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -126637,7 +126638,6 @@ USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
-USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
@@ -126645,7 +126645,6 @@ USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
-USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
@@ -126656,17 +126655,14 @@ USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
 USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
 USER-AGENT,MGTV*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
-USER-AGENT,MiguVideo*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
@@ -126676,6 +126672,7 @@ USER-AGENT,QYPlayer*
 USER-AGENT,TencentMidasConnect*
 USER-AGENT,YYeTs*
 USER-AGENT,Youku*
+USER-AGENT,baiduyinyue
 USER-AGENT,bilibili*
 USER-AGENT,iQiYi*
 USER-AGENT,iQiyi*
@@ -126685,7 +126682,12 @@ USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,baiduyinyue
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT,NeteaseMusic*
+USER-AGENT,MicroMessenger*
+USER-AGENT,WeChat*
 USER-AGENT,iQIYI*
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.bilibili.app.blue
