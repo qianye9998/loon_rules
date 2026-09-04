@@ -1,4 +1,4 @@
-# Generated: 2026-09-03 07:58:58 UTC
+# Generated: 2026-09-04 07:55:17 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -118908,6 +118908,7 @@ DOMAIN-SUFFIX,020.xn--5tzm5g
 DOMAIN-SUFFIX,021.xn--5tzm5g
 DOMAIN-SUFFIX,025.xn--5tzm5g
 DOMAIN-SUFFIX,0858.xn--3ds443g
+DOMAIN-SUFFIX,09izf.com
 DOMAIN-SUFFIX,1.xn--vhquv
 DOMAIN-SUFFIX,10.xn--vhquv
 DOMAIN-SUFFIX,100.xn--5tzm5g
@@ -118926,6 +118927,7 @@ DOMAIN-SUFFIX,12315.xn--5tzm5g
 DOMAIN-SUFFIX,12356.xn--czrs0t
 DOMAIN-SUFFIX,12356.xn--vhquv
 DOMAIN-SUFFIX,123cha.com
+DOMAIN-SUFFIX,137542.club
 DOMAIN-SUFFIX,1573.xn--vhquv
 DOMAIN-SUFFIX,158.xn--vhquv
 DOMAIN-SUFFIX,163.xn--3bst00m
@@ -118933,6 +118935,7 @@ DOMAIN-SUFFIX,168.xn--vhquv
 DOMAIN-SUFFIX,1688.xn--unup4y
 DOMAIN-SUFFIX,1688.xn--vhquv
 DOMAIN-SUFFIX,18.xn--czrs0t
+DOMAIN-SUFFIX,180k.com
 DOMAIN-SUFFIX,199.xn--vhquv
 DOMAIN-SUFFIX,2.xn--unup4y
 DOMAIN-SUFFIX,2.xn--vhquv
@@ -118953,6 +118956,7 @@ DOMAIN-SUFFIX,4.xn--vhquv
 DOMAIN-SUFFIX,5.xn--czrs0t
 DOMAIN-SUFFIX,5.xn--fjq720a
 DOMAIN-SUFFIX,5.xn--unup4y
+DOMAIN-SUFFIX,508.im
 DOMAIN-SUFFIX,520.xn--5tzm5g
 DOMAIN-SUFFIX,555.xn--czrs0t
 DOMAIN-SUFFIX,555.xn--vhquv
@@ -118986,6 +118990,7 @@ DOMAIN-SUFFIX,agms-us.dji.com
 DOMAIN-SUFFIX,agms.dji.com
 DOMAIN-SUFFIX,airasia.com
 DOMAIN-SUFFIX,akashop1.akamai.com
+DOMAIN-SUFFIX,alidnsv122.com
 DOMAIN-SUFFIX,analytics.lenovo.com
 DOMAIN-SUFFIX,api-ar.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,api-ar.euwe1.uds.lenovo.com
@@ -119012,6 +119017,7 @@ DOMAIN-SUFFIX,asset5.djicdn.com
 DOMAIN-SUFFIX,assets.djicdn.com
 DOMAIN-SUFFIX,assets.razerzone.com
 DOMAIN-SUFFIX,assets2.razerzone.com
+DOMAIN-SUFFIX,ataokeji.com
 DOMAIN-SUFFIX,auth.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,auth.euwe1.uds.lenovo.com
 DOMAIN-SUFFIX,auth.naea1.uds.lenovo.com
@@ -119024,10 +119030,12 @@ DOMAIN-SUFFIX,b2c.lenovo.com
 DOMAIN-SUFFIX,bbs.dji.com
 DOMAIN-SUFFIX,bbs.dji.net
 DOMAIN-SUFFIX,bbs.djicdn.com
+DOMAIN-SUFFIX,bms28.xyz
 DOMAIN-SUFFIX,box.lenovo.com
 DOMAIN-SUFFIX,brain.lenovo.com
 DOMAIN-SUFFIX,bsp.lenovo.com
 DOMAIN-SUFFIX,busytrade.com
+DOMAIN-SUFFIX,byfscl.xyz
 DOMAIN-SUFFIX,c.citic
 DOMAIN-SUFFIX,callhome.uds-qa.lenovo.com
 DOMAIN-SUFFIX,callhome.uds-sit.lenovo.com
@@ -119062,6 +119070,7 @@ DOMAIN-SUFFIX,crl2.alphassl.com
 DOMAIN-SUFFIX,crm.lenovo.com
 DOMAIN-SUFFIX,csp.djicdn.com
 DOMAIN-SUFFIX,cube.lenovo.com
+DOMAIN-SUFFIX,cuncc.cc
 DOMAIN-SUFFIX,customer.lenovo.com
 DOMAIN-SUFFIX,d.codata.lenovo.com
 DOMAIN-SUFFIX,daystar.lenovo.com
@@ -119073,6 +119082,7 @@ DOMAIN-SUFFIX,dev.dji.com
 DOMAIN-SUFFIX,dev1.djicdn.com
 DOMAIN-SUFFIX,developer.dji.com
 DOMAIN-SUFFIX,devusa.djicdn.com
+DOMAIN-SUFFIX,distinctech.com
 DOMAIN-SUFFIX,dji-official-fe.djicdn.com
 DOMAIN-SUFFIX,djigo-hk.djiservice.org
 DOMAIN-SUFFIX,djigo.djicdn.com
@@ -119120,12 +119130,14 @@ DOMAIN-SUFFIX,img.videos.dji.net
 DOMAIN-SUFFIX,inapi.lenovo.com
 DOMAIN-SUFFIX,info.support.web02.huawei.akadns99.net
 DOMAIN-SUFFIX,ins.citic
+DOMAIN-SUFFIX,intonead.com
 DOMAIN-SUFFIX,ipgpassport.lenovo.com
 DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,j.people.com.cn.akadns99.net
 DOMAIN-SUFFIX,jingqu.wang
 DOMAIN-SUFFIX,jp.globalsign.com
 DOMAIN-SUFFIX,k.sohu
+DOMAIN-SUFFIX,kkmm.com
 DOMAIN-SUFFIX,laogu.wang
 DOMAIN-SUFFIX,lcp.lenovo.com
 DOMAIN-SUFFIX,legionzone.lenovo.com
@@ -119197,6 +119209,7 @@ DOMAIN-SUFFIX,portal.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,portal.euwe1.uds.lenovo.com
 DOMAIN-SUFFIX,portal.naea1.uds.lenovo.com
 DOMAIN-SUFFIX,portal.uds.lenovo.com
+DOMAIN-SUFFIX,power-z.com
 DOMAIN-SUFFIX,prclogistics.lenovo.com
 DOMAIN-SUFFIX,product-cn.dji.com
 DOMAIN-SUFFIX,product1.djicdn.com
@@ -119276,6 +119289,7 @@ DOMAIN-SUFFIX,synapse3ui-common.razerzone.com
 DOMAIN-SUFFIX,t.sohu
 DOMAIN-SUFFIX,taobao.wang
 DOMAIN-SUFFIX,tech.citic
+DOMAIN-SUFFIX,tencentbuddy.com
 DOMAIN-SUFFIX,terra-1-g.djicdn.com
 DOMAIN-SUFFIX,terra-2-g.djicdn.com
 DOMAIN-SUFFIX,terra-cn.djiservice.org
@@ -119286,6 +119300,7 @@ DOMAIN-SUFFIX,testjp.globalsign.com
 DOMAIN-SUFFIX,tokyo.skypixel.com
 DOMAIN-SUFFIX,top
 DOMAIN-SUFFIX,transformu.lenovo.com
+DOMAIN-SUFFIX,tsuiyuan.com
 DOMAIN-SUFFIX,tv.sohu
 DOMAIN-SUFFIX,u.dji.com
 DOMAIN-SUFFIX,us-ag2-api.dji.com
@@ -119303,6 +119318,7 @@ DOMAIN-SUFFIX,webvpncnszx01.lenovo.com
 DOMAIN-SUFFIX,webvpntest.lenovo.com
 DOMAIN-SUFFIX,whp.lenovo.com
 DOMAIN-SUFFIX,whpu.lenovo.com
+DOMAIN-SUFFIX,workbuddy.link
 DOMAIN-SUFFIX,www-api.dji.com
 DOMAIN-SUFFIX,www-v1.dji.com
 DOMAIN-SUFFIX,www.alphassl.com
@@ -119316,10 +119332,13 @@ DOMAIN-SUFFIX,www2.djicdn.com
 DOMAIN-SUFFIX,www3.djicdn.com
 DOMAIN-SUFFIX,www4.djicdn.com
 DOMAIN-SUFFIX,www5.djicdn.com
+DOMAIN-SUFFIX,x-dao.io
 DOMAIN-SUFFIX,xapi.lenovo.com
 DOMAIN-SUFFIX,xclient.info
+DOMAIN-SUFFIX,xcvpn.app
 DOMAIN-SUFFIX,xiaoma.wang
 DOMAIN-SUFFIX,xiaoyi.lenovo.com
+DOMAIN-SUFFIX,xingcheclub.com
 DOMAIN-SUFFIX,xn--1lq90iba455sxghy10a.xn--3ds443g
 DOMAIN-SUFFIX,xn--1lq90iizjqm7afdaz44c.xn--3ds443g
 DOMAIN-SUFFIX,xn--2ssx2cb4cywb60vkockt5d081a5lm.xn--3ds443g
@@ -119374,7 +119393,9 @@ DOMAIN-SUFFIX,xn--xhq95newgtxk9sk8k6a9r4ba.xn--3ds443g
 DOMAIN-SUFFIX,xn--z3vq3r3u4a.xn--czr694b
 DOMAIN-SUFFIX,xn--zwtr2f7xebqvx24ax9a.xn--3ds443g
 DOMAIN-SUFFIX,yanghengjun.com
+DOMAIN-SUFFIX,yinkead.com
 DOMAIN-SUFFIX,yun.lenovo.com
+DOMAIN-SUFFIX,zcpin.com
 DOMAIN-SUFFIX,zlzpdemo.cube.lenovo.com
 DOMAIN-SUFFIX,ms
 DOMAIN-KEYWORD,.tmall.com
@@ -124549,7 +124570,7 @@ IP-CIDR6,2406:840:808::/45,no-resolve
 IP-CIDR6,2406:840:80::/41,no-resolve
 IP-CIDR6,2406:840:810::/44,no-resolve
 IP-CIDR6,2406:840:820::/43,no-resolve
-IP-CIDR6,2406:840:840::/47,no-resolve
+IP-CIDR6,2406:840:840::/48,no-resolve
 IP-CIDR6,2406:840:843::/48,no-resolve
 IP-CIDR6,2406:840:844::/46,no-resolve
 IP-CIDR6,2406:840:848::/45,no-resolve
@@ -124567,7 +124588,10 @@ IP-CIDR6,2406:840:8a0::/43,no-resolve
 IP-CIDR6,2406:840:8c0::/42,no-resolve
 IP-CIDR6,2406:840:9000::/37,no-resolve
 IP-CIDR6,2406:840:900::/40,no-resolve
-IP-CIDR6,2406:840:9800::/40,no-resolve
+IP-CIDR6,2406:840:9800::/42,no-resolve
+IP-CIDR6,2406:840:9850::/44,no-resolve
+IP-CIDR6,2406:840:9860::/43,no-resolve
+IP-CIDR6,2406:840:9880::/41,no-resolve
 IP-CIDR6,2406:840:9900::/41,no-resolve
 IP-CIDR6,2406:840:9981::/48,no-resolve
 IP-CIDR6,2406:840:9982::/47,no-resolve
@@ -126545,22 +126569,21 @@ USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
+USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
+USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
-USER-AGENT,YYeTs*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
 USER-AGENT,cmb*
@@ -126571,32 +126594,33 @@ USER-AGENT,hide*
 USER-AGENT,ting_en
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,DomesticMedia*
 USER-AGENT,MGTV*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
+USER-AGENT,NeteaseMusic*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
 USER-AGENT,QYPlayer*
-USER-AGENT,TencentMidasConnect*
+USER-AGENT,YYeTs*
 USER-AGENT,bilibili*
 USER-AGENT,iQiYi*
 USER-AGENT,iQiyi*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
 USER-AGENT,baiduyinyue
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,Youku*
 USER-AGENT,iQIYI*
