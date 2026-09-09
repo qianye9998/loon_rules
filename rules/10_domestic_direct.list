@@ -1,4 +1,4 @@
-# Generated: 2026-09-08 08:00:35 UTC
+# Generated: 2026-09-09 08:04:22 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -104987,6 +104987,7 @@ DOMAIN-SUFFIX,yuano.cc
 DOMAIN-SUFFIX,yuanpanguoji.com
 DOMAIN-SUFFIX,yuanqiao.net
 DOMAIN-SUFFIX,yuanqiao.pw
+DOMAIN-SUFFIX,yuanqidesk.com
 DOMAIN-SUFFIX,yuanqilt.com
 DOMAIN-SUFFIX,yuanqingsh.com
 DOMAIN-SUFFIX,yuanqisenlin.com
