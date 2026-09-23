@@ -1,4 +1,4 @@
-# Generated: 2026-09-22 08:28:24 UTC
+# Generated: 2026-09-23 08:29:59 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -180,6 +180,7 @@ DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,downloaddispatch.itunes.apple.com
 DOMAIN-SUFFIX,dreamspark.download.prss.microsoft.com
 DOMAIN-SUFFIX,dreamsparkuat.download.prss.microsoft.com
+DOMAIN-SUFFIX,drivers.amd.com
 DOMAIN-SUFFIX,edge.geo.kaspersky.com
 DOMAIN-SUFFIX,end-api.shallow.ink
 DOMAIN-SUFFIX,end.shallow.ink
@@ -30599,7 +30600,6 @@ DOMAIN-SUFFIX,driver114.com
 DOMAIN-SUFFIX,driverchina.com
 DOMAIN-SUFFIX,driverdevelop.com
 DOMAIN-SUFFIX,drivergenius.com
-DOMAIN-SUFFIX,drivers.amd.com
 DOMAIN-SUFFIX,driverzeng.com
 DOMAIN-SUFFIX,driverzj.com
 DOMAIN-SUFFIX,drivethelife.com
@@ -82625,6 +82625,7 @@ DOMAIN-SUFFIX,sjez.com
 DOMAIN-SUFFIX,sjf029.com
 DOMAIN-SUFFIX,sjfcdn.com
 DOMAIN-SUFFIX,sjfh168.com
+DOMAIN-SUFFIX,sjfls6.com
 DOMAIN-SUFFIX,sjfpro.com
 DOMAIN-SUFFIX,sjfzxm.com
 DOMAIN-SUFFIX,sjg8.com
