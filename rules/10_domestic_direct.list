@@ -1,4 +1,4 @@
-# Generated: 2026-10-10 09:44:22 UTC
+# Generated: 2026-10-11 09:55:01 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -119549,7 +119549,6 @@ DOMAIN-SUFFIX,333.xn--czrs0t
 DOMAIN-SUFFIX,360.xn--czrs0t
 DOMAIN-SUFFIX,360.xn--vhquv
 DOMAIN-SUFFIX,3699.xn--unup4y
-DOMAIN-SUFFIX,4.xn--czrs0t
 DOMAIN-SUFFIX,4.xn--vhquv
 DOMAIN-SUFFIX,5.xn--czrs0t
 DOMAIN-SUFFIX,5.xn--fjq720a
@@ -119585,8 +119584,10 @@ DOMAIN-SUFFIX,ag.dji.com
 DOMAIN-SUFFIX,ag2.dji.com
 DOMAIN-SUFFIX,agms-us.dji.com
 DOMAIN-SUFFIX,agms.dji.com
+DOMAIN-SUFFIX,aibilun.com
 DOMAIN-SUFFIX,airasia.com
 DOMAIN-SUFFIX,akashop1.akamai.com
+DOMAIN-SUFFIX,alizch.com
 DOMAIN-SUFFIX,analytics.lenovo.com
 DOMAIN-SUFFIX,api-ar.cnno1.uds.lenovo.com
 DOMAIN-SUFFIX,api-ar.euwe1.uds.lenovo.com
@@ -119641,6 +119642,7 @@ DOMAIN-SUFFIX,cdo-tst.lenovo.com
 DOMAIN-SUFFIX,cdo.lenovo.com
 DOMAIN-SUFFIX,cdp.djiservice.org
 DOMAIN-SUFFIX,certified-timestamp.globalsign.com
+DOMAIN-SUFFIX,cfdns46.com
 DOMAIN-SUFFIX,cfeng.wang
 DOMAIN-SUFFIX,cfhc.citic
 DOMAIN-SUFFIX,check.kt.lenovo.com
@@ -119655,6 +119657,7 @@ DOMAIN-SUFFIX,cnblog.skypixel.com
 DOMAIN-SUFFIX,cnlogistics.lenovo.com
 DOMAIN-SUFFIX,cochat.lenovo.com
 DOMAIN-SUFFIX,codata.lenovo.com
+DOMAIN-SUFFIX,codebuddy.ai
 DOMAIN-SUFFIX,college.globalsign.com
 DOMAIN-SUFFIX,content.djiservice.org
 DOMAIN-SUFFIX,crl.alphassl.com
@@ -119681,6 +119684,7 @@ DOMAIN-SUFFIX,djigoapi.djiservice.org
 DOMAIN-SUFFIX,dl.djicdn.com
 DOMAIN-SUFFIX,dl.razerzone.com
 DOMAIN-SUFFIX,dlm01-cn-sdc.blurdev.com
+DOMAIN-SUFFIX,dnski.com
 DOMAIN-SUFFIX,docs.djicdn.com
 DOMAIN-SUFFIX,dospy.wang
 DOMAIN-SUFFIX,dps.djiservice.org
@@ -119730,6 +119734,7 @@ DOMAIN-SUFFIX,k.sohu
 DOMAIN-SUFFIX,laogu.wang
 DOMAIN-SUFFIX,lcp.lenovo.com
 DOMAIN-SUFFIX,legionzone.lenovo.com
+DOMAIN-SUFFIX,lewl88.com
 DOMAIN-SUFFIX,link.dji.com
 DOMAIN-SUFFIX,lms.lenovo.com
 DOMAIN-SUFFIX,log-smart.lenovo.com
@@ -119786,6 +119791,7 @@ DOMAIN-SUFFIX,otp.lenovo.com
 DOMAIN-SUFFIX,passport.lenovo.com
 DOMAIN-SUFFIX,pats.lenovo.com
 DOMAIN-SUFFIX,pay.djicdn.com
+DOMAIN-SUFFIX,pcelves.com
 DOMAIN-SUFFIX,pcgplmmobile.lenovo.com
 DOMAIN-SUFFIX,ping.ubnt.com
 DOMAIN-SUFFIX,plat.smartedu.lenovo.com
@@ -119807,6 +119813,7 @@ DOMAIN-SUFFIX,profile.globalsign.com
 DOMAIN-SUFFIX,qas-cnlogistics.lenovo.com
 DOMAIN-SUFFIX,qcut.dji.com
 DOMAIN-SUFFIX,qi.lenovo.com
+DOMAIN-SUFFIX,qlgfdns.com
 DOMAIN-SUFFIX,qliksense.lenovo.com
 DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,razerid-assets-staging.razerzone.com
@@ -119904,6 +119911,7 @@ DOMAIN-SUFFIX,webvpncnszx01.lenovo.com
 DOMAIN-SUFFIX,webvpntest.lenovo.com
 DOMAIN-SUFFIX,whp.lenovo.com
 DOMAIN-SUFFIX,whpu.lenovo.com
+DOMAIN-SUFFIX,workbuddy.ai
 DOMAIN-SUFFIX,www-api.dji.com
 DOMAIN-SUFFIX,www-v1.dji.com
 DOMAIN-SUFFIX,www.alphassl.com
@@ -119943,7 +119951,6 @@ DOMAIN-SUFFIX,xn--cnqr5ysyl.xn--czr694b
 DOMAIN-SUFFIX,xn--e1t46na.xn--6qq986b3xl
 DOMAIN-SUFFIX,xn--ekr69hlr1c.xn--3ds443g
 DOMAIN-SUFFIX,xn--eqrt2g.xn--vuq861b
-DOMAIN-SUFFIX,xn--f5q14tug.xn--6qq986b3xl
 DOMAIN-SUFFIX,xn--f8qs4ctu19zr2eq64ehfmdri.xn--3ds443g
 DOMAIN-SUFFIX,xn--fhqpn19bl91acha222foe2d.xn--3ds443g
 DOMAIN-SUFFIX,xn--fiq8ituh5mn9d1qbc28lu5dusc.xn--vuq861b
