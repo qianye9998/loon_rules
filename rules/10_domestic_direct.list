@@ -1,4 +1,4 @@
-# Generated: 2026-11-15 10:44:02 UTC
+# Generated: 2026-11-16 11:02:38 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,collaborateppe.download.prss.microsoft.com
 DOMAIN-SUFFIX,communities.apple.com
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN-SUFFIX,configuration.apple.com.akadns.net
+DOMAIN-SUFFIX,configuration.ls.apple.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,crl-lb.apple.com.akadns.net
@@ -338,10 +339,12 @@ DOMAIN-SUFFIX,msdn.download.prss.microsoft.com
 DOMAIN-SUFFIX,msdprod-ad.download.prss.microsoft.com
 DOMAIN-SUFFIX,msproduct.download.prss.microsoft.com
 DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,musicstatus.itunes.apple.com
 DOMAIN-SUFFIX,musicstatus.music.apple.com
 DOMAIN-SUFFIX,mvod.itunes.apple.com
 DOMAIN-SUFFIX,myapp.itunes.apple.com
 DOMAIN-SUFFIX,myvs.download.prss.microsoft.com
+DOMAIN-SUFFIX,mzstorekit.itunes.apple.com
 DOMAIN-SUFFIX,np-edge.itunes.apple.com
 DOMAIN-SUFFIX,ntp.aliyun.com
 DOMAIN-SUFFIX,ntp.tencent.com
@@ -18576,6 +18579,7 @@ DOMAIN-SUFFIX,caps-china.org
 DOMAIN-SUFFIX,capsuleshanghai.com
 DOMAIN-SUFFIX,captain-cro.com
 DOMAIN-SUFFIX,captainbi.com
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,capturetheflag.fun
 DOMAIN-SUFFIX,capvision.com
 DOMAIN-SUFFIX,capwhale.com
