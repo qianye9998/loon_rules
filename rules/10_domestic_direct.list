@@ -1,4 +1,4 @@
-# Generated: 2026-11-18 11:30:48 UTC
+# Generated: 2026-11-19 11:29:57 UTC
 # Sources:
 # https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt
 # https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/direct.txt
@@ -59568,6 +59568,7 @@ DOMAIN-SUFFIX,lenovocloudos.com
 DOMAIN-SUFFIX,lenovoconnect.com
 DOMAIN-SUFFIX,lenovoeservice.com
 DOMAIN-SUFFIX,lenovofile.com
+DOMAIN-SUFFIX,lenovofuturecenter.com
 DOMAIN-SUFFIX,lenovogame.com
 DOMAIN-SUFFIX,lenovohci.com
 DOMAIN-SUFFIX,lenovohuishang.com
@@ -74218,6 +74219,7 @@ DOMAIN-SUFFIX,qpjylm.com
 DOMAIN-SUFFIX,qpkaifa.com
 DOMAIN-SUFFIX,qplus.com
 DOMAIN-SUFFIX,qplusstatic.com
+DOMAIN-SUFFIX,qpmcn.com
 DOMAIN-SUFFIX,qpoc.com
 DOMAIN-SUFFIX,qpstar.com
 DOMAIN-SUFFIX,qpwater.com
@@ -88995,6 +88997,7 @@ DOMAIN-SUFFIX,troxchina.com
 DOMAIN-SUFFIX,trpc.center
 DOMAIN-SUFFIX,trpc.group
 DOMAIN-SUFFIX,trpc.tech
+DOMAIN-SUFFIX,trpcdn.com
 DOMAIN-SUFFIX,trpcdn.net
 DOMAIN-SUFFIX,trs-logistics.com
 DOMAIN-SUFFIX,trsoft.vip
@@ -106591,6 +106594,7 @@ DOMAIN-SUFFIX,zhaoketang.com
 DOMAIN-SUFFIX,zhaokuaizhao.com
 DOMAIN-SUFFIX,zhaolaobanla.com
 DOMAIN-SUFFIX,zhaoliangji.com
+DOMAIN-SUFFIX,zhaoliangjipc.com
 DOMAIN-SUFFIX,zhaoliming.net
 DOMAIN-SUFFIX,zhaoming.biz
 DOMAIN-SUFFIX,zhaomishijie.com
